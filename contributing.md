@@ -32,7 +32,7 @@ Marketing pages, link farms and empty repositories are rejected.
 ## Before opening the pull request
 
 - Check headings, table-of-contents anchors and duplicate resources.
-- Verify every link you added resolves (the manually triggered `Check resource links` workflow runs
+- Verify every link you added resolves (the scheduled and manually triggered `Check resource links` workflow runs
   [lychee](https://github.com/lycheeverse/lychee) on all Markdown files).
 - Use a descriptive pull request title, for example `Add MeshCore Foo`.
 
@@ -43,3 +43,7 @@ login walls or timeouts as proof that a resource is dead.
 
 Corrections, renames and removals of dead projects are welcome. Explain the
 reason in the pull request description.
+
+## Guides, comparisons and verification
+
+Use the issue and pull-request templates. Cite primary project documentation for app capabilities, distinguish packaged downloads from source builds, and use “not documented” for unestablished features. Update a document’s manual review date only after reviewing its content. Automated link checks run weekly and for documentation pull requests; results appear in the workflow summary and downloadable report. Gated social links still require manual review.
