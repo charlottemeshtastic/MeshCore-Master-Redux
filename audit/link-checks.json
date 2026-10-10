@@ -1,0 +1,3786 @@
+[
+  {
+    "url": "https://3yte.codeberg.page/meshcore-italia/",
+    "status": 200,
+    "final_url": "https://3yte.codeberg.page/meshcore-italia/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Repeater Wizard"
+  },
+  {
+    "url": "https://advertrank.com/",
+    "status": 200,
+    "final_url": "https://advertrank.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Wall of Shame"
+  },
+  {
+    "url": "https://analyzer.letsmesh.net/",
+    "status": 403,
+    "final_url": "https://analyzer.letsmesh.net/",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://analyzer.on8ar.eu/",
+    "status": 200,
+    "final_url": "https://analyzer.on8ar.eu/",
+    "result": "reachable",
+    "error": "",
+    "title": "CoreScope"
+  },
+  {
+    "url": "https://app.meshcore.nz/",
+    "status": 200,
+    "final_url": "https://app.meshcore.nz/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore"
+  },
+  {
+    "url": "https://apraide.lv/",
+    "status": 200,
+    "final_url": "https://apraide.lv/",
+    "result": "reachable",
+    "error": "",
+    "title": "Apraide.lv | LoRa mesh Latvijas kom\u016bna"
+  },
+  {
+    "url": "https://areyoumeshingwith.us/",
+    "status": 200,
+    "final_url": "https://areyoumeshingwith.us/",
+    "result": "reachable",
+    "error": "",
+    "title": "Florida Mesh"
+  },
+  {
+    "url": "https://atlavox.com/products/wismesh-tag-meshtastic-meshcore-radio",
+    "status": 200,
+    "final_url": "https://atlavox.com/products/wismesh-tag-meshtastic-meshcore-radio",
+    "result": "reachable",
+    "error": "",
+    "title": "WisMesh Tag Mesh Radio \u2013 Atlavox"
+  },
+  {
+    "url": "https://atvirastinklas.lt",
+    "status": 200,
+    "final_url": "https://atvirastinklas.lt/",
+    "result": "reachable",
+    "error": "",
+    "title": "Atviras Tinklas"
+  },
+  {
+    "url": "https://aur.archlinux.org/packages/meshcore-bin",
+    "status": 200,
+    "final_url": "https://aur.archlinux.org/packages/meshcore-bin",
+    "result": "reachable",
+    "error": "",
+    "title": "AUR (en) - meshcore-bin"
+  },
+  {
+    "url": "https://awesome.re",
+    "status": 200,
+    "final_url": "https://github.com/sindresorhus/awesome#readme",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - sindresorhus/awesome: \ud83d\ude0e Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] \u00b7 GitHub"
+  },
+  {
+    "url": "https://awesome.re/badge.svg",
+    "status": 200,
+    "final_url": "https://awesome.re/badge.svg",
+    "result": "reachable",
+    "error": "",
+    "title": ""
+  },
+  {
+    "url": "https://bayareameshcore.org/",
+    "status": 200,
+    "final_url": "https://bayareameshcore.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Bay Area MeshCore"
+  },
+  {
+    "url": "https://blog.meshcore.io/",
+    "status": 200,
+    "final_url": "https://blog.meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Blog"
+  },
+  {
+    "url": "https://bostonme.sh/",
+    "status": 200,
+    "final_url": "https://bostonme.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": "Greater Boston Mesh"
+  },
+  {
+    "url": "https://brasovmesh.com/",
+    "status": 200,
+    "final_url": "https://brasovmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Brasov Meshcore Network - Comunitatea Meshcore Romania | Meshcore Brasov"
+  },
+  {
+    "url": "https://bravo.takke.me/books/meshcore",
+    "status": 200,
+    "final_url": "https://bravo.takke.me/books/meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore | Bravo.TAKKE.me"
+  },
+  {
+    "url": "https://bsmesh.de/",
+    "status": 200,
+    "final_url": "https://bsmesh.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "BSmesh - MeshCore im Gro\u00dfraum Braunschweig"
+  },
+  {
+    "url": "https://cascadiamesh.org/",
+    "status": 200,
+    "final_url": "https://cascadiamesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Home - CascadiaMesh"
+  },
+  {
+    "url": "https://chicagolandmesh.org/",
+    "status": 200,
+    "final_url": "https://chicagolandmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Chicagoland Mesh"
+  },
+  {
+    "url": "https://codeberg.org/3yte/meshcore-italia",
+    "status": 200,
+    "final_url": "https://codeberg.org/3yte/meshcore-italia",
+    "result": "reachable",
+    "error": "",
+    "title": "3yte/meshcore-italia - Codeberg.org"
+  },
+  {
+    "url": "https://codeberg.org/sesivany/meshy",
+    "status": 200,
+    "final_url": "https://codeberg.org/sesivany/meshy",
+    "result": "reachable",
+    "error": "",
+    "title": "sesivany/meshy: Meshy - a GTK4/libadwaita client for MeshCore. The goal is to provide the best Linux experience. - Codeberg.org"
+  },
+  {
+    "url": "https://codeberg.org/todd-herbert/InkCore",
+    "status": 200,
+    "final_url": "https://codeberg.org/todd-herbert/InkCore",
+    "result": "reachable",
+    "error": "",
+    "title": "todd-herbert/InkCore: MeshCore-based BLE-companion firmware for small E-Ink devices. - Codeberg.org"
+  },
+  {
+    "url": "https://config.meshcore.io/",
+    "status": 200,
+    "final_url": "https://config.meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Repeater / Room server USB setup"
+  },
+  {
+    "url": "https://contempl8.io/tools/relief/",
+    "status": 200,
+    "final_url": "https://contempl8.io/tools/relief/",
+    "result": "reachable",
+    "error": "",
+    "title": "Relief \u2014 3D Terrain Block Viewer \u2014 contempl8"
+  },
+  {
+    "url": "https://contempl8.io/tools/topo/",
+    "status": 200,
+    "final_url": "https://contempl8.io/tools/topo/",
+    "result": "reachable",
+    "error": "",
+    "title": "Topo \u2014 Elevation Profile Tool \u2014 contempl8"
+  },
+  {
+    "url": "https://ctmesh.org/",
+    "status": 200,
+    "final_url": "https://ctmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "CT Mesh"
+  },
+  {
+    "url": "https://devtrends.ru/c/meshcore-dev-meshcore",
+    "status": 200,
+    "final_url": "https://devtrends.ru/c/meshcore-dev-meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore \u2014 \u043a\u0430\u043a \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0441\u0432\u043e\u044e \u0441\u0435\u0442\u044c \u0441\u0432\u044f\u0437\u0438, \u043a\u043e\u0433\u0434\u0430 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043f\u0440\u0438\u043a\u0430\u0437\u0430\u043b \u0434\u043e\u043b\u0433\u043e \u0436\u0438\u0442\u044c | DevTrends"
+  },
+  {
+    "url": "https://discord.gg/6KSQBqaTmw",
+    "status": 200,
+    "final_url": "https://discord.com/invite/6KSQBqaTmw",
+    "result": "uncertain",
+    "error": "",
+    "title": "MESHCORE GREECE"
+  },
+  {
+    "url": "https://discord.gg/CnnDfER3Yt",
+    "status": 200,
+    "final_url": "https://discord.com/invite/CnnDfER3Yt",
+    "result": "uncertain",
+    "error": "",
+    "title": "Cascadia Mesh"
+  },
+  {
+    "url": "https://discord.gg/XFSA9f5kqM",
+    "status": 200,
+    "final_url": "https://discord.com/invite/XFSA9f5kqM",
+    "result": "uncertain",
+    "error": "",
+    "title": "Central Washington Hackers"
+  },
+  {
+    "url": "https://discord.gg/ZVH2ujy9ex",
+    "status": 200,
+    "final_url": "https://discord.com/invite/ZVH2ujy9ex",
+    "result": "uncertain",
+    "error": "",
+    "title": "Discord"
+  },
+  {
+    "url": "https://discord.gg/tKGFwFYvsT",
+    "status": 200,
+    "final_url": "https://discord.com/invite/tKGFwFYvsT",
+    "result": "uncertain",
+    "error": "",
+    "title": "LoRa Mesh Comms ZA"
+  },
+  {
+    "url": "https://docs.livemap-meshcorecat.com/",
+    "status": 200,
+    "final_url": "https://docs.livemap-meshcorecat.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Catalunya"
+  },
+  {
+    "url": "https://docs.meshcore.io/",
+    "status": 200,
+    "final_url": "https://docs.meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Docs"
+  },
+  {
+    "url": "https://dutchmeshcore.nl/",
+    "status": 200,
+    "final_url": "https://dutchmeshcore.nl/",
+    "result": "reachable",
+    "error": "",
+    "title": "Dutch MeshCore Community | Firmware, Tools & MQTT"
+  },
+  {
+    "url": "https://eastme.sh/",
+    "status": 200,
+    "final_url": "https://eastme.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": "Eastern US Meshcore \u2014 Off-Grid LoRa Mesh Network"
+  },
+  {
+    "url": "https://eastmesh.au/",
+    "status": 200,
+    "final_url": "https://eastmesh.au/",
+    "result": "reachable",
+    "error": "",
+    "title": "eastmesh.au \u2014 Australian MeshCore Community Network"
+  },
+  {
+    "url": "https://example.com",
+    "status": 200,
+    "final_url": "https://example.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Example Domain"
+  },
+  {
+    "url": "https://files.liamcottle.net/MeshCore/",
+    "status": 200,
+    "final_url": "https://files.liamcottle.net/MeshCore/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore"
+  },
+  {
+    "url": "https://flasher.meshcore.co.uk/",
+    "status": 200,
+    "final_url": "https://flasher.meshcore.co.uk/",
+    "result": "reachable",
+    "error": "",
+    "title": "Redirecting..."
+  },
+  {
+    "url": "https://flasher.meshcore.io/",
+    "status": 200,
+    "final_url": "https://flasher.meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore flasher"
+  },
+  {
+    "url": "https://forge.hackers.town/Wrewdison/Aurora",
+    "status": 200,
+    "final_url": "https://forge.hackers.town/Wrewdison/Aurora",
+    "result": "reachable",
+    "error": "",
+    "title": "Wrewdison/Aurora: Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. - Hackers Town Forge: We Rise. We Rust. We Forge."
+  },
+  {
+    "url": "https://forge.hackers.town/Wrewdison/Spectra",
+    "status": 200,
+    "final_url": "https://forge.hackers.town/Wrewdison/Spectra",
+    "result": "reachable",
+    "error": "",
+    "title": "Wrewdison/Spectra: Spectra is a bridge for Mesh Radios like MeshCore and Meshtastic, powered by Veilid. - Hackers Town Forge: We Rise. We Rust. We Forge."
+  },
+  {
+    "url": "https://forum.letsmesh.net/",
+    "status": 403,
+    "final_url": "https://forum.letsmesh.net/",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://forum.meshcore-net.nl/",
+    "status": 200,
+    "final_url": "https://forum.meshcore-net.nl/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore net forum"
+  },
+  {
+    "url": "https://gessaman.com/mc-keygen/",
+    "status": 200,
+    "final_url": "https://gessaman.com/mc-keygen/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Custom Key Generator"
+  },
+  {
+    "url": "https://github.com/0xSeren/Reticulum-Network-Planner",
+    "status": 200,
+    "final_url": "https://github.com/0xSeren/Reticulum-Network-Planner",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - 0xSeren/Reticulum-Network-Planner: Tooling for finding and testing ideal reticulum transport node locations. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/868meshbot/Saitama",
+    "status": 200,
+    "final_url": "https://github.com/868meshbot/Saitama",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - 868meshbot/Saitama: Meshcore firmware for the Lilygo TDeck plus \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/A13xB0/hoplink",
+    "status": 200,
+    "final_url": "https://github.com/A13xB0/hoplink",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - A13xB0/hoplink: Bridge for MeshCore, Meshtastic mesh radio networks (and Discord) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/A13xB0/hopreach",
+    "status": 200,
+    "final_url": "https://github.com/A13xB0/hopreach",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - A13xB0/hopreach: Terrain-aware RF coverage mapping for MeshCore repeater networks \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ALLFATHER-BV/meshcomod",
+    "status": 200,
+    "final_url": "https://github.com/ALLFATHER-BV/meshcomod",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ALLFATHER-BV/meshcomod: Custom Meshcore Firmware for select devices \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ALLFATHER-BV/wadamesh",
+    "status": 200,
+    "final_url": "https://github.com/ALLFATHER-BV/wadamesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ALLFATHER-BV/wadamesh: Touch-UI MeshCore firmware for LilyGo T-Deck / Heltec V4 TFT (ESP32-S3). The wadamesh app; depends on a MeshCore fork. Split out of meshcomod. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/AkitaEngineering/Akita-Meshtastic-Meshcore-Bridge",
+    "status": 200,
+    "final_url": "https://github.com/AkitaEngineering/Akita-Meshtastic-Meshcore-Bridge",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - AkitaEngineering/Akita-Meshtastic-Meshcore-Bridge: AMMB is a flexible and robust software bridge designed by Akita Engineering. This bridge enables interoperability, allowing messages, sensor data (with appropriate translation), and potentially other information to flow between Meshtastic and devices connected via Serial (like MeshCore) or platforms integrated with MQTT. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/AkitaEngineering/Akita-Zmodem-MeshCore",
+    "status": 200,
+    "final_url": "https://github.com/AkitaEngineering/Akita-Zmodem-MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - AkitaEngineering/Akita-Zmodem-MeshCore: This repository contains a Python implementation of a lightweight ZMODEM-like file transfer protocol that is tightly integrated with the MeshCore companion client. The protocol is self-contained. The only runtime dependency besides the optional tqdm progress bar is the MeshCore Python library. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Anrijs/MeshLog",
+    "status": 200,
+    "final_url": "https://github.com/Anrijs/MeshLog",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Anrijs/MeshLog: Web-side of MeshCore Logger \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Avi0n/MeshCoreOne",
+    "status": 200,
+    "final_url": "https://github.com/Avi0n/MeshCoreOne",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Avi0n/MeshCoreOne: A native MeshCore client for Apple devices \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/BomBefok/MeshcoreInsights",
+    "status": 200,
+    "final_url": "https://github.com/BomBefok/MeshcoreInsights",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - BomBefok/MeshcoreInsights: A Graphical software interface to interact with Meshcore companion nodes. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Brent-A/mcsim",
+    "status": 200,
+    "final_url": "https://github.com/Brent-A/mcsim",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Brent-A/mcsim: A deterministic MeshCore network and firmware simulator \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Cisien/meshcoretomqtt",
+    "status": 200,
+    "final_url": "https://github.com/Cisien/meshcoretomqtt",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Cisien/meshcoretomqtt: A python based script to send meshore debug and packet capture data to MQTT for analysis Requires meshcore repeater to be connected to a raspberry pi, server or similar linux device able to run python. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Colorado-Mesh/mesh-client",
+    "status": 200,
+    "final_url": "https://github.com/Colorado-Mesh/mesh-client",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Colorado-Mesh/mesh-client: Cross-platform Electron desktop client for Meshtastic, MeshCore, and Reticulum on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi\u2011Fi/TCP, MQTT, local SQLite history, and routing diagnostics. EMCOMM support via MECP & TAK. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Cyclenerd/meshcore-bot",
+    "status": 200,
+    "final_url": "https://github.com/Cyclenerd/meshcore-bot",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Cyclenerd/meshcore-bot: \ud83e\udd16 MeshCore Bot \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Cyclenerd/offline-map-tile-downloader",
+    "status": 200,
+    "final_url": "https://github.com/Cyclenerd/offline-map-tile-downloader",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Cyclenerd/offline-map-tile-downloader: \ud83d\uddfa\ufe0f Offline Map Tile Downloader \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Department-of-Mesh-Regional-Bridging/meshcore-esp-now-filtered-bridge",
+    "status": 200,
+    "final_url": "https://github.com/Department-of-Mesh-Regional-Bridging/meshcore-esp-now-filtered-bridge",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Department-of-Mesh-Regional-Bridging/meshcore-esp-now-filtered-bridge: MeshCore / ESP-NOW bridge - Extended With Filtering Capability \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Dreikor17/MeshCore-OTA-Flasher",
+    "status": 200,
+    "final_url": "https://github.com/Dreikor17/MeshCore-OTA-Flasher",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Dreikor17/MeshCore-OTA-Flasher: Flash MeshCore firmware to Nordic nRF52840 (RAK4631 / WisMesh) over Bluetooth LE - a Windows desktop OTA DFU tool. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/FelixvdDonk/QMeshcoreApp",
+    "status": 200,
+    "final_url": "https://github.com/FelixvdDonk/QMeshcoreApp",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - FelixvdDonk/QMeshcoreApp: Qt C++/QML implementation of a desktop meshcore client \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Finmacjones/HeltecV4.2MultiBoot",
+    "status": 200,
+    "final_url": "https://github.com/Finmacjones/HeltecV4.2MultiBoot",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Finmacjones/HeltecV4.2MultiBoot: Multi-firmware boot selector for Heltec WiFi LoRa 32 V4.2 (ESP32-S3) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/HDDen/meshcore-open",
+    "status": 404,
+    "final_url": "https://github.com/HDDen/meshcore-open",
+    "result": "broken-candidate",
+    "error": "",
+    "title": "Page not found \u00b7 GitHub \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/HansvanMeer/pyMC_WM1303",
+    "status": 200,
+    "final_url": "https://github.com/HansvanMeer/pyMC_WM1303",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - HansvanMeer/pyMC_WM1303: WM1303 (SX1303/SX1302) module for Meshcore (pyMC_core & pyMC_repeater) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Hude06/MeshCoreDiscordBridge",
+    "status": 200,
+    "final_url": "https://github.com/Hude06/MeshCoreDiscordBridge",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Hude06/MeshCoreDiscordBridge \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/IdreesInc/PokeMesh",
+    "status": 200,
+    "final_url": "https://github.com/IdreesInc/PokeMesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - IdreesInc/PokeMesh: Collaborative Pok\u00e9mon over a decentralized network, no internet required! \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/IoTThinks/EasySkyMesh",
+    "status": 200,
+    "final_url": "https://github.com/IoTThinks/EasySkyMesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - IoTThinks/EasySkyMesh: A sharing place to form IoT sensor networks via LoRa Mesh technology. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/KMX415/meshpoint",
+    "status": 200,
+    "final_url": "https://github.com/KMX415/meshpoint",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - KMX415/meshpoint: Open-source LoRa base station for Meshtastic/MeshCore. Raspberry Pi + SX1302/SX1303 concentrator: passive multi-channel capture, local dashboard, native TX \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Kpa-clawbot/CoreScope",
+    "status": 200,
+    "final_url": "https://github.com/Kpa-clawbot/CoreScope",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Kpa-clawbot/CoreScope: MeshCore mesh network analyzer \u2014 live packet visualization, VCR replay, channel decryption, node health, analytics \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/LitBomb/MeshCore-FAQ",
+    "status": 200,
+    "final_url": "https://github.com/LitBomb/MeshCore-FAQ",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - LitBomb/MeshCore-FAQ: A list of frequently-asked questions and answers for MeshCore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MGJ520/MeshCore-Email-Gateway",
+    "status": 200,
+    "final_url": "https://github.com/MGJ520/MeshCore-Email-Gateway",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MGJ520/MeshCore-Email-Gateway: This project is a MeshCore email gateway designed to bridge traditional email with the MeshCore mesh network. By enabling users to communicate bidirectionally with nodes in the MeshCore network via email, it also provides a web-based graphical management interface for easy configuration, monitoring, and debugging. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MadScientistCH/meshcute",
+    "status": 200,
+    "final_url": "https://github.com/MadScientistCH/meshcute",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MadScientistCH/meshcute: Meshcute is a universal toolbox for what you need when having a Meshcore or Meshtastic meeting and wanting to diagnose your mesh devices quickly \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MaliosDark/meshcore-specter-dx-lr30",
+    "status": 200,
+    "final_url": "https://github.com/MaliosDark/meshcore-specter-dx-lr30",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MaliosDark/meshcore-specter-dx-lr30: MeshCore repeater firmware for STM32F103 + SX1262 (DX-LR30 board) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Mambo430/MeshCore-SAME-EAS-Alerter",
+    "status": 200,
+    "final_url": "https://github.com/Mambo430/MeshCore-SAME-EAS-Alerter",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Mambo430/MeshCore-SAME-EAS-Alerter: The MeshCore SAME EAS Alerter is a tool that listens for SAME EAS alerts using a SDR and sends them over the MeshCore network. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MarekWo/mc-webui",
+    "status": 200,
+    "final_url": "https://github.com/MarekWo/mc-webui",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MarekWo/mc-webui: Meshcore web client \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MarekZegare4/MeshCore-Solo",
+    "status": 200,
+    "final_url": "https://github.com/MarekZegare4/MeshCore-Solo",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MarekZegare4/MeshCore-Solo: Companion firmware fork \u2014 offline GPS navigation (waypoints, compass, GPX export) on top of LoRa mesh messaging. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MarkSlusar/DEALORA",
+    "status": 200,
+    "final_url": "https://github.com/MarkSlusar/DEALORA",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MarkSlusar/DEALORA: Darwinian Evolved Antennas For LoRa Devices including Meshtastic and Meshcore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Mesh-Chile",
+    "status": 200,
+    "final_url": "https://github.com/Mesh-Chile",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Chile \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MeshBench/meshbench",
+    "status": 200,
+    "final_url": "https://github.com/MeshBench/meshbench",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MeshBench/meshbench: RF-accurate MeshCore network simulator: real firmware, sample-accurate LoRa baseband, GPU compute. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MeshCore-Beacon/beacon-server",
+    "status": 200,
+    "final_url": "https://github.com/MeshCore-Beacon/beacon-server",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MeshCore-Beacon/beacon-server: Backend server stack \u2014 Go API, PostgreSQL, Redis, Caddy (Docker Compose) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MeshEnvy/mesh-forge",
+    "status": 200,
+    "final_url": "https://github.com/MeshEnvy/mesh-forge",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MeshEnvy/mesh-forge: Cloud builder for LoRa mesh firmware \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MichTronics/MeshCoreNG",
+    "status": 200,
+    "final_url": "https://github.com/MichTronics/MeshCoreNG",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MichTronics/MeshCoreNG: A new lightweight, hybrid routing mesh protocol for packet radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MichTronics/Remote-Terminal-for-MeshCore",
+    "status": 200,
+    "final_url": "https://github.com/MichTronics/Remote-Terminal-for-MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MichTronics/Remote-Terminal-for-MeshCore: A remote client for MeshCore radios with packet capture, store-and-decrypt, bots, MQTT, and more! \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Mraanderson/meshcore-ota",
+    "status": 200,
+    "final_url": "https://github.com/Mraanderson/meshcore-ota",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Mraanderson/meshcore-ota: Guidance for the OTA update of Room Servers or Repeaters \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/MultiMote/meshcore-cardputer-adv",
+    "status": 200,
+    "final_url": "https://github.com/MultiMote/meshcore-cardputer-adv",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - MultiMote/meshcore-cardputer-adv: MeshCore Cardputer-Adv + Cap LoRa-1262 variant. Development has been paused due to a loss of interest \ud83d\udea7 \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Nicolai-Electronics/meshcore-c",
+    "status": 200,
+    "final_url": "https://github.com/Nicolai-Electronics/meshcore-c",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Nicolai-Electronics/meshcore-c: Pure C implementation of the Meshcore protocol \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/OKI-Mesh/CoreScope",
+    "status": 200,
+    "final_url": "https://github.com/OKI-Mesh/CoreScope",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - OKI-Mesh/CoreScope: MeshCore mesh network analyzer \u2014 live packet visualization, VCR replay, channel decryption, node health, analytics \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/OffbandMesh/meshcore-client",
+    "status": 200,
+    "final_url": "https://github.com/OffbandMesh/meshcore-client",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - OffbandMesh/meshcore-client: Offband MeshCore: an open-source client for MeshCore LoRa mesh radios. Direct and channel chat, contact and repeater management, a live node map, and on-device message translation, over Bluetooth LE, USB serial or TCP. Android, Windows, Linux and web. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/OffbandMesh/meshcore-firmware",
+    "status": 200,
+    "final_url": "https://github.com/OffbandMesh/meshcore-firmware",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - OffbandMesh/meshcore-firmware: A MeshCore fork with deep diagnostics and field reliability: crash-survival logging, boot and low-voltage protection, and MQTT mesh-observation publishing. Companion, observer and repeater roles on Heltec, RAK, XIAO, SenseCAP and RadioCore hardware. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/PEG4TRON/MeshCorium",
+    "status": 200,
+    "final_url": "https://github.com/PEG4TRON/MeshCorium",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - PEG4TRON/MeshCorium: MeshCorium is a self-hosted MeshCore client with a hybrid contact system. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/PapaSierra555/MeshCommunityPlanner",
+    "status": 200,
+    "final_url": "https://github.com/PapaSierra555/MeshCommunityPlanner",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - PapaSierra555/MeshCommunityPlanner: Desktop application for planning LoRa mesh network deployments with terrain-aware RF propagation, hardware selection, and bill of materials generation. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/PhilMo6/meshpunk",
+    "status": 200,
+    "final_url": "https://github.com/PhilMo6/meshpunk",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - PhilMo6/meshpunk \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Quark1980/MeshcoreGRID",
+    "status": 200,
+    "final_url": "https://github.com/Quark1980/MeshcoreGRID",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Quark1980/MeshcoreGRID \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Ratty7198/MeshCore-HA-UI",
+    "status": 200,
+    "final_url": "https://github.com/Ratty7198/MeshCore-HA-UI",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Ratty7198/MeshCore-HA-UI \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/RikoDEV/litescope",
+    "status": 200,
+    "final_url": "https://github.com/RikoDEV/litescope",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - RikoDEV/litescope: A lightweight, self-hosted dashboard for monitoring MeshCore networks. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Robert-Proaps/BlackJackOS-BJOS-",
+    "status": 200,
+    "final_url": "https://github.com/Robert-Proaps/BlackJackOS-BJOS-",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Robert-Proaps/BlackJackOS-BJOS-: Open Source Alternative Meshcore Firmware for the LILYGO T-Deck and Similar Devices \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/SH3D/meshcore_c",
+    "status": 200,
+    "final_url": "https://github.com/SH3D/meshcore_c",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - SH3D/meshcore_c: A client for the MeshCore Companion Radio serial protocol single portable C99 \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/STCisGOOD/lunarcore",
+    "status": 200,
+    "final_url": "https://github.com/STCisGOOD/lunarcore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - STCisGOOD/lunarcore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/STCisGOOD/yours-x-lunarcore",
+    "status": 200,
+    "final_url": "https://github.com/STCisGOOD/yours-x-lunarcore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - STCisGOOD/yours-x-lunarcore: mesh phone application \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Slofi/overmesh",
+    "status": 200,
+    "final_url": "https://github.com/Slofi/overmesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Slofi/overmesh: A self-hosted dashboard for Meshtastic and Meshcore. Node map, chat, bot, offline maps, Mesh Sense \u2014 runs entirely on your machine. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Stachugit/MeshCore-Cardputer-ADV",
+    "status": 200,
+    "final_url": "https://github.com/Stachugit/MeshCore-Cardputer-ADV",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Stachugit/MeshCore-Cardputer-ADV \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Sukecz/MeshCore-E22P-Repeater",
+    "status": 200,
+    "final_url": "https://github.com/Sukecz/MeshCore-E22P-Repeater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Sukecz/MeshCore-E22P-Repeater: MeshCore repeater firmware for XIAO ESP32S3 and Ebyte E22P-868M30S \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/TheRealHaoLiu/MeshCore-M5Burner-UnitC6L",
+    "status": 200,
+    "final_url": "https://github.com/TheRealHaoLiu/MeshCore-M5Burner-UnitC6L",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - TheRealHaoLiu/MeshCore-M5Burner-UnitC6L: MeshCore LoRa mesh firmware for M5Stack Unit C6L - M5Burner distribution \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/TogeriX-hub/FieldMesh",
+    "status": 200,
+    "final_url": "https://github.com/TogeriX-hub/FieldMesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - TogeriX-hub/FieldMesh: MeshCore firmware fork for outdoor use \u2014 GPS tracking, Off-Grid mode with Client Repeat, SOS alerts and Standalone Capabilities \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Treehouse-00/pymc_console-dist",
+    "status": 200,
+    "final_url": "https://github.com/Treehouse-00/pymc_console-dist",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Treehouse-00/pymc_console-dist: Deprecated standalone distribution (final v0.9.394). Install waev:outpost through Repeater Plugins; migration instructions below. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Upstate-Mesh/meshy",
+    "status": 200,
+    "final_url": "https://github.com/Upstate-Mesh/meshy",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Upstate-Mesh/meshy: A MeshCore/LoRa-based bot for beaconing, announcements, ADSB sightings, and weather condition reporting with Home Assistant connected sensors. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/VBart/MeshCoreTel-firmware",
+    "status": 200,
+    "final_url": "https://github.com/VBart/MeshCoreTel-firmware",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - VBart/MeshCoreTel-firmware: \u041f\u0440\u043e\u0448\u0438\u0432\u043a\u0430 \u0440\u0435\u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0442\u043e\u0440\u043e\u0432 MeshCore \u0441 Wi-Fi, HTTPS API \u0438 \u0432\u0435\u0431-\u043f\u0430\u043d\u0435\u043b\u044c\u044e \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439 MQTT-\u0431\u0440\u043e\u043a\u0435\u0440\u043e\u0432 MeshCoreTel \u0438 LetsMesh \u0434\u043b\u044f \u0442\u0435\u043b\u0435\u043c\u0435\u0442\u0440\u0438\u0438. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Vigoleis912/PicoMeshCore",
+    "status": 200,
+    "final_url": "https://github.com/Vigoleis912/PicoMeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Vigoleis912/PicoMeshCore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/WattleFoxxo/Mycelium",
+    "status": 200,
+    "final_url": "https://github.com/WattleFoxxo/Mycelium",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - WattleFoxxo/Mycelium: Open source Meshcore client \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/Wavesonics/MeshCoreKmp",
+    "status": 200,
+    "final_url": "https://github.com/Wavesonics/MeshCoreKmp",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - Wavesonics/MeshCoreKmp: A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/aXistem-dev/meshcore-web",
+    "status": 200,
+    "final_url": "https://github.com/aXistem-dev/meshcore-web",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - aXistem-dev/meshcore-web: Web version of the MeshCore Companion App (Flutter), created by Liam Cottle. Connect to MeshCore LoRa devices via BLE or USB from the browser\u2014send messages, manage contacts, view topology. Includes Docker deployment. Closed source, free to use. Maintained by aXistem. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/aaronb/wireshark-meshcore",
+    "status": 200,
+    "final_url": "https://github.com/aaronb/wireshark-meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - aaronb/wireshark-meshcore: Wireshark protocol dissector and pcapng converter for MeshCore LoRa mesh networking \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/adradr/meshcore-webui",
+    "status": 200,
+    "final_url": "https://github.com/adradr/meshcore-webui",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - adradr/meshcore-webui \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/afit21/Reticulum-Smart-MeshCore-Interface",
+    "status": 200,
+    "final_url": "https://github.com/afit21/Reticulum-Smart-MeshCore-Interface",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - afit21/Reticulum-Smart-MeshCore-Interface: Route Reticulum RNS traffic over MeshCore without nuking your local MeshCore network! \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/agessaman/MeshCore/tree/mqtt-bridge-implementation",
+    "status": 200,
+    "final_url": "https://github.com/agessaman/MeshCore/tree/mqtt-bridge-implementation",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - agessaman/MeshCore at mqtt-bridge-implementation \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/agessaman/meshcore-bot",
+    "status": 200,
+    "final_url": "https://github.com/agessaman/meshcore-bot",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - agessaman/meshcore-bot: A multi-function, extensible, utility bot for MeshCore networks. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/agessaman/meshcore-packet-capture",
+    "status": 200,
+    "final_url": "https://github.com/agessaman/meshcore-packet-capture",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - agessaman/meshcore-packet-capture: Standalone Python script for capturing and analyzing packets from MeshCore companion radios with MQTT support \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/agessaman/meshcore-web-keygen",
+    "status": 200,
+    "final_url": "https://github.com/agessaman/meshcore-web-keygen",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - agessaman/meshcore-web-keygen: Client-side web application for generating MeshCore-compatible Ed25519 keys with custom hex prefixes \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ajvpot/meshexplorer",
+    "status": 200,
+    "final_url": "https://github.com/ajvpot/meshexplorer",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ajvpot/meshexplorer: Real-time map, chat client, and packet analysis tool for mesh networks using MeshCore and Meshtastic. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/andrewdavidmackenzie/meshcore-rs",
+    "status": 200,
+    "final_url": "https://github.com/andrewdavidmackenzie/meshcore-rs",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - andrewdavidmackenzie/meshcore-rs: Rust meshcore client library \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/andymux/meshos-releases",
+    "status": 200,
+    "final_url": "https://github.com/andymux/meshos-releases",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - andymux/meshos-releases: MeshOS - An official MeshCore App \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/atakmaps/TAK-MESHCORE",
+    "status": 200,
+    "final_url": "https://github.com/atakmaps/TAK-MESHCORE",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - atakmaps/TAK-MESHCORE: ATAK MeshCore plugin \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/atomozero/CubeCellMeshCore",
+    "status": 200,
+    "final_url": "https://github.com/atomozero/CubeCellMeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - atomozero/CubeCellMeshCore: A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards (HTCC-AB01, AB02, AC01). Extends mesh coverage with flood routing, supports authenticated remote management via companion app, and includes automatic daily health reports. Optimized for solar-powered deployments. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/atomozero/MeshBBS",
+    "status": 200,
+    "final_url": "https://github.com/atomozero/MeshBBS",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - atomozero/MeshBBS: MeshCore BBS \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/atomozero/Sestriere",
+    "status": 200,
+    "final_url": "https://github.com/atomozero/Sestriere",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - atomozero/Sestriere: Native MeshCore client for Haiku OS. Like Venice's sestieri connected by bridges, your nodes linked by radio waves. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/awehttam/binkterm-php",
+    "status": 200,
+    "final_url": "https://github.com/awehttam/binkterm-php",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - awehttam/binkterm-php: A full-featured open-source BBS: mobile web & telnet/SSH access, FidoNet echomail/netmail, file areas, DOS/C64/web door games, local & MRC chat, MeshCore/PacketBBS, QWK, NNTP, Gemini & more! \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/bardolf/meshcore-repeater",
+    "status": 200,
+    "final_url": "https://github.com/bardolf/meshcore-repeater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - bardolf/meshcore-repeater: Mashcore repeater construiction documentation \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/bliksemlabs/PyMeshCoreGUI",
+    "status": 200,
+    "final_url": "https://github.com/bliksemlabs/PyMeshCoreGUI",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - bliksemlabs/PyMeshCoreGUI: PyMeshCore GUI is an open-source desktop application for interacting with the MeshCore network. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/bouyous/meshcore-xiao-s3-dual-radio-repeater",
+    "status": 200,
+    "final_url": "https://github.com/bouyous/meshcore-xiao-s3-dual-radio-repeater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - bouyous/meshcore-xiao-s3-dual-radio-repeater: MeshCore 1.17.1 XIAO ESP32-S3 bi-radio : alertes et r\u00e9cup\u00e9ration basse tension \u2014 famille Recovery. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/brianwiddas/meshcore-pi",
+    "status": 200,
+    "final_url": "https://github.com/brianwiddas/meshcore-pi",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - brianwiddas/meshcore-pi: Implementation of Meshcore in Python \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/bryantkelley/MeshRes",
+    "status": 200,
+    "final_url": "https://github.com/bryantkelley/MeshRes",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - bryantkelley/MeshRes: Stream MeshCore packets into Resonite \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/burakcan/MeshCore-mishmesh",
+    "status": 200,
+    "final_url": "https://github.com/burakcan/MeshCore-mishmesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - burakcan/MeshCore-mishmesh: Standalone companion firmware for MeshCore radios. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/carsten-walther/MeshCore-BBS",
+    "status": 200,
+    "final_url": "https://github.com/carsten-walther/MeshCore-BBS",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - carsten-walther/MeshCore-BBS \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/chrisdavis2110/meshcore-decoder-py",
+    "status": 200,
+    "final_url": "https://github.com/chrisdavis2110/meshcore-decoder-py",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - chrisdavis2110/meshcore-decoder-py \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/christian45410/meshcore-cfw-builder",
+    "status": 200,
+    "final_url": "https://github.com/christian45410/meshcore-cfw-builder",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - christian45410/meshcore-cfw-builder \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/compumike/meshcore-tcp-mux",
+    "status": 200,
+    "final_url": "https://github.com/compumike/meshcore-tcp-mux",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - compumike/meshcore-tcp-mux: Share one upstream MeshCore TCP companion with multiple downstream clients. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/d3sbo/MeshCore-Home-Assistant-Panel-v2",
+    "status": 200,
+    "final_url": "https://github.com/d3sbo/MeshCore-Home-Assistant-Panel-v2",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - d3sbo/MeshCore-Home-Assistant-Panel-v2 \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dabeani/MeshCoreRPI",
+    "status": 200,
+    "final_url": "https://github.com/dabeani/MeshCoreRPI",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dabeani/MeshCoreRPI: Port of the original Firmware to run native on the Raspberry Pi. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dabeani/meshcoreterm",
+    "status": 200,
+    "final_url": "https://github.com/dabeani/meshcoreterm",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dabeani/meshcoreterm: MeshCoreTerm (MC-Term); Retro Firmware based on the MeshCore SourceCode for LilyGo TDeck & T-Display P4, Seeedstudio Indicator, Heltec V4, EleCrow 3.5, EleCrow 7 \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/danst0/fennek",
+    "status": 200,
+    "final_url": "https://github.com/danst0/fennek",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - danst0/fennek: \ud83e\udd8a Fennek \u2014 alternative open-source firmware for the LilyGO T-Deck Pro: music, audiobooks, eBooks & LoRa mesh chat (MeshCore). GPL-3.0+ \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dpup/meshcore-mcp",
+    "status": 200,
+    "final_url": "https://github.com/dpup/meshcore-mcp",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dpup/meshcore-mcp: Model Context Protocol (MCP) server exposing a MeshCore node \u2014 and the mesh reachable through it \u2014 to AI agents and tools. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dpup/meshcore-sim",
+    "status": 200,
+    "final_url": "https://github.com/dpup/meshcore-sim",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dpup/meshcore-sim: Deterministic, behavioral MeshCore network simulator for testing meshcore apps without radios. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dpup/meshcore-ts",
+    "status": 200,
+    "final_url": "https://github.com/dpup/meshcore-ts",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dpup/meshcore-ts: Typed, ergonomic TypeScript client for MeshCore Companion Radio devices (TCP/WiFi + USB serial). \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dt267/MeshCore-Low-Power-Firmware",
+    "status": 200,
+    "final_url": "https://github.com/dt267/MeshCore-Low-Power-Firmware",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dt267/MeshCore-Low-Power-Firmware: MeshCore firmware with deep power optimization, a full companion display UI with multi-transport connectivity, and advanced radio and network controls \u2014 built for multi-day off-grid operation. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dz0ny/meshcore-paperui",
+    "status": 200,
+    "final_url": "https://github.com/dz0ny/meshcore-paperui",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dz0ny/meshcore-paperui: MeshCore for LilyGo T5 ePaper S3 Pro \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dz0ny/meshcore-sar",
+    "status": 200,
+    "final_url": "https://github.com/dz0ny/meshcore-sar",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dz0ny/meshcore-sar: MeshCore SAR \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dz0ny/meshcore-t5-epaper-s3-pro",
+    "status": 200,
+    "final_url": "https://github.com/dz0ny/meshcore-paperui",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dz0ny/meshcore-paperui: MeshCore for LilyGo T5 ePaper S3 Pro \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/dz0ny/meshcore_client",
+    "status": 200,
+    "final_url": "https://github.com/dz0ny/meshcore_client",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - dz0ny/meshcore_client \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ekollof/meshtui",
+    "status": 200,
+    "final_url": "https://github.com/ekollof/meshtui",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ekollof/meshtui: Textual based interface to meshcore nodes \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/eliahreeves/mesh-loader",
+    "status": 200,
+    "final_url": "https://github.com/eliahreeves/mesh-loader",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - eliahreeves/mesh-loader \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ellisgl/915-mesh-antenna",
+    "status": 200,
+    "final_url": "https://github.com/ellisgl/915-mesh-antenna",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ellisgl/915-mesh-antenna: 915 MHz ISM antenna tunned for Meshcore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/fdlamotte/meshcore_upy",
+    "status": 200,
+    "final_url": "https://github.com/fdlamotte/meshcore_upy",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - fdlamotte/meshcore_upy: Micropython bindings for meshcore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/fiedoruk/biper-lora",
+    "status": 200,
+    "final_url": "https://github.com/fiedoruk/biper-lora",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - fiedoruk/biper-lora: Biper: a radio cube a scared person can use. MeshCore fork for M5Stack Unit C6L \u2014 phone panel from the cube's own flash, PL-first. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/g-d-j-evans/MeschaTUI",
+    "status": 200,
+    "final_url": "https://github.com/g-d-j-evans/MeschaTUI",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - g-d-j-evans/MeschaTUI: A tui chat interface to use with Meshcore compainion radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/gadgethd/ukmesh",
+    "status": 200,
+    "final_url": "https://github.com/gadgethd/ukmesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - gadgethd/ukmesh: Real-time mesh network analytics platform for MeshCore networks \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/galadril/Domoticz-MeshCore-Plugin",
+    "status": 200,
+    "final_url": "https://github.com/galadril/Domoticz-MeshCore-Plugin",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - galadril/Domoticz-MeshCore-Plugin: Domoticz integration for MeshCore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/genemichael/rns-gateway",
+    "status": 200,
+    "final_url": "https://github.com/genemichael/rns-gateway",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - genemichael/rns-gateway: Reticulum (RNS) gateway over MeshCore LoRa mesh \u2014 single Heltec V4 device: embedded microReticulum transport, on-device TCP server for RNS clients, MeshCore channel as long-haul transport \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/guax/YAMPA",
+    "status": 200,
+    "final_url": "https://github.com/guax/YAMPA",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - guax/YAMPA: Yet Another Meshcore Packet Analyser \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/guax/tui-meshcore",
+    "status": 200,
+    "final_url": "https://github.com/guax/tui-meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - guax/tui-meshcore: A TUI based meshcore client for linux hosts \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/h0lad/LoRaHarvesterBox",
+    "status": 200,
+    "final_url": "https://github.com/h0lad/LoRaHarvesterBox",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - h0lad/LoRaHarvesterBox: PCB integrating a ST STM32WLE5CC and TI BQ25570 energy harvester. Ideal platform for ultra-low-power LoRa(WAN) nodes projects. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/h0lad/SolarMeshtasticNodeMini",
+    "status": 200,
+    "final_url": "https://github.com/h0lad/SolarMeshtasticNodeMini",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - h0lad/SolarMeshtasticNodeMini: The SolarMeshtasticNodeMini (ESP32-C3 + Semtech SX1262 + TI BQ25185 Solar Charger) is a minimalistic Meshcore/Meshtastic compatible device. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/hermes-gadget/SigurdOS-client",
+    "status": 200,
+    "final_url": "https://github.com/hermes-gadget/SigurdOS-client",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - hermes-gadget/SigurdOS-client: DEPRECATED since 2026-07-31 \u2014 archived. Flutter mobile app for SigurdOS mesh radio \u2014 BLE/TCP/USB chat client \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/hermes-gadget/SigurdOS-tdeck",
+    "status": 200,
+    "final_url": "https://github.com/hermes-gadget/SigurdOS-tdeck",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - hermes-gadget/SigurdOS-tdeck: Standalone off-grid LoRa mesh messaging firmware for LilyGo T-Deck (ESP32-S3 / SX1262 / LVGL) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/hotwolf/LoRaMeshNodes",
+    "status": 200,
+    "final_url": "https://github.com/hotwolf/LoRaMeshNodes",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - hotwolf/LoRaMeshNodes: A collection of DIY LoRa mesh nodes \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/initsixdev/QTC",
+    "status": 200,
+    "final_url": "https://github.com/initsixdev/QTC",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - initsixdev/QTC: An old-school-cool terminal client for MeshCore messaging on Linux and Mac. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ipnet-mesh/meshcore-hub",
+    "status": 200,
+    "final_url": "https://github.com/ipnet-mesh/meshcore-hub",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ipnet-mesh/meshcore-hub: MeshCore Hub provides a complete solution for monitoring, collecting, and interacting with MeshCore mesh networks \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ipnet-mesh/meshcore-mqtt",
+    "status": 200,
+    "final_url": "https://github.com/ipnet-mesh/meshcore-mqtt",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ipnet-mesh/meshcore-mqtt: MeshCore MQTT Bridge (Companion App over Serial/BLE/TCP) \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jhuebert/MeshCore",
+    "status": 200,
+    "final_url": "https://github.com/jhuebert/MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jhuebert/MeshCore: A new lightweight, hybrid routing mesh protocol for packet radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jkingsman/Remote-Terminal-for-MeshCore",
+    "status": 200,
+    "final_url": "https://github.com/jkingsman/Remote-Terminal-for-MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jkingsman/Remote-Terminal-for-MeshCore: A remote client for MeshCore radios with packet capture, store-and-decrypt, bots, MQTT, and more! \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jkingsman/meshcore-packet-knife",
+    "status": 200,
+    "final_url": "https://github.com/jkingsman/meshcore-packet-knife",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jkingsman/meshcore-packet-knife: Analyze MeshCore packets and use WebGPU to bruteforce hashtag channel keys \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jmead/Meshcore-Repeater-MQTT-Gateway",
+    "status": 200,
+    "final_url": "https://github.com/jmead/Meshcore-Repeater-MQTT-Gateway",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jmead/Meshcore-Repeater-MQTT-Gateway: A powerful gateway firmware that bridges MeshCore LoRa mesh networks with MQTT brokers, enabling bidirectional message flow between LoRa devices and MQTT-based applications. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jooray/MeshCore-BitChat",
+    "status": 200,
+    "final_url": "https://github.com/jooray/MeshCore-BitChat",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jooray/MeshCore-BitChat: A new lightweight, hybrid routing mesh protocol for packet radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jooray/roadstr",
+    "status": 200,
+    "final_url": "https://github.com/jooray/roadstr",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jooray/roadstr: Decentralized road-event reporting using Nostr and MeshCore. Web and Android \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/jpettitt/meshcore-card",
+    "status": 200,
+    "final_url": "https://github.com/jpettitt/meshcore-card",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - jpettitt/meshcore-card: MeshCore Lovelace card for Home Assistant \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/kgiannadakis/CrowPanel-DHE04005D",
+    "status": 200,
+    "final_url": "https://github.com/kgiannadakis/CrowPanel-DHE04005D",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - kgiannadakis/CrowPanel-DHE04005D: A Meshcore/Meshtastic dual boot, standalone, touch device \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/kn6plv/Raven",
+    "status": 200,
+    "final_url": "https://github.com/kn6plv/Raven",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - kn6plv/Raven: Raven Mesh Messaging \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/kore-signet/chiyocore",
+    "status": 200,
+    "final_url": "https://github.com/kore-signet/chiyocore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - kore-signet/chiyocore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/kybl/meshcore-signal-tester",
+    "status": 200,
+    "final_url": "https://github.com/kybl/meshcore-signal-tester",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - kybl/meshcore-signal-tester: Web and Android application for testing the MeshCore signal \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/l5yth/potato-mesh",
+    "status": 200,
+    "final_url": "https://github.com/l5yth/potato-mesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - l5yth/potato-mesh: A federated Meshtastic, Meshcore, and Reticulum node dashboard for your local community. No MQTT clutter, just local LoRa aether. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/laserir/MCLite",
+    "status": 200,
+    "final_url": "https://github.com/laserir/MCLite",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - laserir/MCLite: MCLite \u2014 MeshCore companion firmware for LilyGo T-Deck Plus \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/liamcottle/meshcore-web",
+    "status": 200,
+    "final_url": "https://github.com/liamcottle/meshcore-web",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - liamcottle/meshcore-web \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/liquidraver/ZephCore",
+    "status": 200,
+    "final_url": "https://github.com/liquidraver/ZephCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - liquidraver/ZephCore: MeshCore Zephyr port \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/lucidnx/meshcore-drone-updater",
+    "status": 200,
+    "final_url": "https://github.com/lucidnx/meshcore-drone-updater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - lucidnx/meshcore-drone-updater: Utility that updates meshcore nodes primarily meant for use with drones to upgrade firmware on physically unreachable nodes \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/luckystriike22/meshcore_region_info",
+    "status": 200,
+    "final_url": "https://github.com/luckystriike22/meshcore_region_info",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - luckystriike22/meshcore_region_info \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/lycheeverse/lychee",
+    "status": 200,
+    "final_url": "https://github.com/lycheeverse/lychee",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - lycheeverse/lychee: \u26a1 Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/marcelverdult/meshcore-channels",
+    "status": 200,
+    "final_url": "https://github.com/marcelverdult/meshcore-channels",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - marcelverdult/meshcore-channels: Canonical, community-editable catalog of MeshCore channels organized by country. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/marcelverdult/meshcore-regions",
+    "status": 200,
+    "final_url": "https://github.com/marcelverdult/meshcore-regions",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - marcelverdult/meshcore-regions \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/matthewdgreen/meshcore_sim",
+    "status": 200,
+    "final_url": "https://github.com/matthewdgreen/meshcore_sim",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - matthewdgreen/meshcore_sim: Simulator for baby meshcore networks \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mbedworth/PommeCore",
+    "status": 200,
+    "final_url": "https://github.com/mbedworth/PommeCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mbedworth/PommeCore: Native Apple companion app for MeshCore LoRa mesh radios \u2014 off-grid messaging without internet or cell towers \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-cz/meshcore-go",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-cz/meshcore-go",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-cz/meshcore-go: Reusable Go toolkit for MeshCore-compatible radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-cz/meshcore-packet-tool",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-cz/meshcore-packet-tool",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-cz/meshcore-packet-tool: A browser-based workbench for inspecting, decoding, and crafting MeshCore packets. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-cz/meshpkt",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-cz/meshpkt",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-cz/meshpkt: Pure Go codec for the MeshCore radio packet wire format \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/MeshCore",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-dev/MeshCore: A new lightweight, hybrid routing mesh protocol for packet radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore/docs/faq.md at main \u00b7 meshcore-dev/MeshCore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/MeshCore/issues/259",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/MeshCore/issues/259",
+    "result": "reachable",
+    "error": "",
+    "title": "Security issues in encryption! \u00b7 Issue #259 \u00b7 meshcore-dev/MeshCore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/meshcore-cli",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/meshcore-cli",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-dev/meshcore-cli: Command line interface to MeshCore node \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/meshcore-ha",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/meshcore-ha",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-dev/meshcore-ha: Home Assistant integration for monitoring and controlling MeshCore radio networks \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/meshcore.js",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/meshcore.js",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-dev/meshcore.js \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-dev/meshcore_py",
+    "status": 200,
+    "final_url": "https://github.com/meshcore-dev/meshcore_py",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshcore-dev/meshcore_py: Python bindings for meshcore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-go/meshcore-bot",
+    "status": 200,
+    "final_url": "https://github.com/OwlShack/OwlBot",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - OwlShack/OwlBot: A simple to use MeshCore bot \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshcore-go/meshcore-go",
+    "status": 200,
+    "final_url": "https://github.com/OwlShack/meshcore-go",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - OwlShack/meshcore-go: Pure Go implementation of the MeshCore protocol \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/meshdeck-os/meshdeck",
+    "status": 200,
+    "final_url": "https://github.com/meshdeck-os/meshdeck",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - meshdeck-os/meshdeck: Free, open-source MeshCore firmware for the LilyGo T-Deck: chat, offline maps, mesh tools, radio-preset onboarding and an SOS beacon. Flash it straight from your browser, no install needed. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/michaelhart/meshcore-decoder",
+    "status": 200,
+    "final_url": "https://github.com/michaelhart/meshcore-decoder",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - michaelhart/meshcore-decoder: A TypeScript library for decoding MeshCore mesh networking packets with full cryptographic support. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/michaelhart/meshcore-mqtt-broker",
+    "status": 200,
+    "final_url": "https://github.com/michaelhart/meshcore-mqtt-broker",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - michaelhart/meshcore-mqtt-broker: MeshCore MQTT broker with signature-based authentication using MeshCore public/private keys \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mikecarper/meshfirmware",
+    "status": 200,
+    "final_url": "https://github.com/mikecarper/meshfirmware",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mikecarper/meshfirmware: Linux USB firmware updater for meshcore & meshtastic devices \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mintylinux/Meshcore-T-beam-1W-Firmware",
+    "status": 200,
+    "final_url": "https://github.com/mintylinux/Meshcore-T-beam-1W-Firmware",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mintylinux/Meshcore-T-beam-1W-Firmware: Meshcore firmware for the Lilygo T-beam 1 Watt \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mintylinux/Meshcore-Wardrive-Android",
+    "status": 200,
+    "final_url": "https://github.com/mintylinux/Meshcore-Wardrive-Android",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mintylinux/Meshcore-Wardrive-Android: A Flutter-based mobile wardriving application for mapping MeshCore mesh network coverage in real-time. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mintylinux/meshwar-map-docker",
+    "status": 200,
+    "final_url": "https://github.com/mintylinux/meshwar-map-docker",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mintylinux/meshwar-map-docker: MeshCore Wardrive Map \u2014 Self-Hosted Docker Edition. SQLite-backed coverage map with manual import tools, contributor tracking, and leaderboard. Security-first: uploads disabled by default. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/msmuenchen/meshcore-packets-java",
+    "status": 200,
+    "final_url": "https://github.com/msmuenchen/meshcore-packets-java",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - msmuenchen/meshcore-packets-java: MeshCore packet wrangling in Java \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mtoolstec/TapTapFW",
+    "status": 200,
+    "final_url": "https://github.com/mtoolstec/TapTapFW",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mtoolstec/TapTapFW \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/mwolter805/meshcore-ha-chat",
+    "status": 200,
+    "final_url": "https://github.com/mwolter805/meshcore-ha-chat",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - mwolter805/meshcore-ha-chat: Home Assistant companion integration: chat UI, persistent message store, and sidebar panel for the MeshCore mesh radio network. Works alongside the core meshcore integration. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/neilalexander/mcrs",
+    "status": 200,
+    "final_url": "https://github.com/neilalexander/mcrs",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - neilalexander/mcrs: Meshcore repeater firmware in Rust \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/netmilk/esphome-meshcore",
+    "status": 200,
+    "final_url": "https://github.com/netmilk/esphome-meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - netmilk/esphome-meshcore: Esphome Meshcore (sensor) Component \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/nilseuropa/solar_os",
+    "status": 200,
+    "final_url": "https://github.com/nilseuropa/solar_os",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - nilseuropa/solar_os: SolarOS is a small text-first pocket terminal OS \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/ogarcia/coresplitter",
+    "status": 200,
+    "final_url": "https://github.com/ogarcia/coresplitter",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - ogarcia/coresplitter: Virtual node proxy for MeshCore \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/openhop-dev/openHop-HA-Integration",
+    "status": 200,
+    "final_url": "https://github.com/openhop-dev/openHop-HA-Integration",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - openhop-dev/openHop-HA-Integration: Home Assistant integration for openHop Repeater with telemetry, MQTT broker status, and control entities. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/openhop-dev/openHop_RepeaterUI",
+    "status": 200,
+    "final_url": "https://github.com/openhop-dev/openHop_RepeaterUI",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - openhop-dev/openHop_RepeaterUI: Web dashboard for pyMC_Repeater \u2014 manage and monitor your MeshCore repeater from the browser \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/openhop-dev/openhop_core",
+    "status": 200,
+    "final_url": "https://github.com/openhop-dev/openhop_core",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - openhop-dev/openhop_core: A Python MeshCore library with SPI LoRa radio support \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/openhop-dev/openhop_modem",
+    "status": 200,
+    "final_url": "https://github.com/openhop-dev/openhop_modem",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - openhop-dev/openhop_modem: Use a generic device with openHop Repeater \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/openhop-dev/openhop_repeater",
+    "status": 200,
+    "final_url": "https://github.com/openhop-dev/openhop_repeater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - openhop-dev/openhop_repeater: A lightweight Repeater Daemon implemented in Python, built using the openhop_core library. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/pe1hvh/meshcore-gui",
+    "status": 200,
+    "final_url": "https://github.com/pe1hvh/meshcore-gui",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - pe1hvh/meshcore-gui: Native desktop GUI for MeshCore mesh network devices via BLE \u2014 no firmware changes required \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/pelgraine/Meck",
+    "status": 200,
+    "final_url": "https://github.com/pelgraine/Meck",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - pelgraine/Meck: Meshcore + Fork = Meck. A fork created specifically to focus on enabling BLE & WiFi companion firmware for the LilyGo T-Deck Pro and T-Deck Max. Created wholly with Claude AI using Meshcore v1.11 code. 100% vibecoded. 100% free. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/pelgraine/Meck-P4",
+    "status": 200,
+    "final_url": "https://github.com/pelgraine/Meck-P4",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - pelgraine/Meck-P4: Meshcore + Fork = Meck. Fork of LilyGo's T-Display P4 firmware with Meshcore support. 100% vibecoded with Claude AI. 100% free and available to all. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/persistentcache/Lora-Wideband-Decoder",
+    "status": 200,
+    "final_url": "https://github.com/persistentcache/Lora-Wideband-Decoder",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - persistentcache/Lora-Wideband-Decoder: Self-hosted wideband intercept receiver for LoRa traffic. Decodes Meshtastic / LoRaWAN / MeshCore near-real-time from SDR IQ in software with a local web UI. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/recrof/MeshCore-WeatherBot",
+    "status": 200,
+    "final_url": "https://github.com/recrof/MeshCore-WeatherBot",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - recrof/MeshCore-WeatherBot \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/recrof/drone_meshcore_updater",
+    "status": 200,
+    "final_url": "https://github.com/recrof/drone_meshcore_updater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - recrof/drone_meshcore_updater: Drone BLE DFU/WiFi OTA flasher based on Zephyr \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/recrof/map.meshcore.io-uploader",
+    "status": 200,
+    "final_url": "https://github.com/recrof/map.meshcore.io-uploader",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - recrof/map.meshcore.io-uploader: MeshCore map auto uploader \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/recrof/nrf_dfu_py",
+    "status": 200,
+    "final_url": "https://github.com/recrof/nrf_dfu_py",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - recrof/nrf_dfu_py: BLE DFU update tool for linux/windows/mac \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/recrof/xiao_nrf52_updater",
+    "status": 200,
+    "final_url": "https://github.com/recrof/xiao_nrf52_updater",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - recrof/xiao_nrf52_updater: Seeed XIAO nRF52840 BLE DFU OTA flasher \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/rgregg/meshcore-proxy",
+    "status": 200,
+    "final_url": "https://github.com/rgregg/meshcore-proxy",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - rgregg/meshcore-proxy: TCP proxy for MeshCore companion radios connected via USB Serial or BLE \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/robrec/MeshCoreRepeater-RePeter",
+    "status": 200,
+    "final_url": "https://github.com/robrec/MeshCoreRepeater-RePeter",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - robrec/MeshCoreRepeater-RePeter: Alles zum BreMesh RePeter \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/samschlegel/mc-keygen",
+    "status": 200,
+    "final_url": "https://github.com/samschlegel/mc-keygen",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - samschlegel/mc-keygen: MeshCore vanity Ed25519 key generator \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/smikme/meshapp",
+    "status": 200,
+    "final_url": "https://github.com/smikme/meshapp",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - smikme/meshapp: MeshApp is a full-featured desktop client for managing devices and communicating in Meshtastic and MeshCore mesh networks. The application replaces mobile clients on a PC and provides advanced capabilities for monitoring, telemetry visualization, and radio module configuration. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro",
+    "status": 200,
+    "final_url": "https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - sosprz/Meshcore-Wio-Tracker-L1-Pro: Meshcore for Wio Tracker L1 Pro \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/sosprz/meshcore-cardputer-adv",
+    "status": 200,
+    "final_url": "https://github.com/sosprz/meshcore-cardputer-adv",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - sosprz/meshcore-cardputer-adv: meshcore client for cardputer adv \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/swannman/meshcore64",
+    "status": 200,
+    "final_url": "https://github.com/swannman/meshcore64",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - swannman/meshcore64: MeshCore chat client for Commodore 64 \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/taedryn/mesh-citadel",
+    "status": 200,
+    "final_url": "https://github.com/taedryn/mesh-citadel",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - taedryn/mesh-citadel: A MeshCore-first BBS, inspired by the Citadel BBSes of the 80s \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/tekk/map-tiles-downloader",
+    "status": 200,
+    "final_url": "https://github.com/tekk/map-tiles-downloader",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - tekk/map-tiles-downloader: Map tiles downloader for Meshtastic / MeshCore apps \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/thatSFguy/meshcore-mobile-app",
+    "status": 200,
+    "final_url": "https://github.com/thatSFguy/meshcore-mobile-app",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - thatSFguy/meshcore-mobile-app: Private off-grid LoRa messaging for Android. An independent, hardened MeshCore client: no servers, no accounts, no Google Play Services. Encrypted history, verified adverts, in-app firmware updates over Bluetooth. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/tmacinc/MeshCore",
+    "status": 200,
+    "final_url": "https://github.com/tmacinc/MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - tmacinc/MeshCore: A new lightweight, hybrid routing mesh protocol for packet radios \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/tmacinc/MeshCore-TEAM",
+    "status": 200,
+    "final_url": "https://github.com/tmacinc/MeshCore-TEAM",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - tmacinc/MeshCore-TEAM: Off-grid, telemetry based group tracking app utilizing MeshCore. Focused on Hunting and backcountry applications. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/venamartin/meshtrax",
+    "status": 200,
+    "final_url": "https://github.com/venamartin/meshtrax",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - venamartin/meshtrax: Open-source Flutter client for MeshCore LoRa mesh networking devices \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/vicliu624/trail-mate",
+    "status": 200,
+    "final_url": "https://github.com/vicliu624/trail-mate",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - vicliu624/trail-mate: Trail Mate is an offline\u2011first handheld system for GPS navigation, LoRa communication, and real\u2011time team situational awareness in no\u2011network environments. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/xAlisher/peers",
+    "status": 200,
+    "final_url": "https://github.com/xAlisher/peers",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - xAlisher/peers: Peers \u2014 peer-to-peer messenger for Android over Logos, MeshCore (LoRa) and Bluetooth mesh. Privacy-focused. Encrypted end-to-end and at rest. Early Alpha You cannot be deplatformed if there is no platform. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/xJARiD/MeshCore-EastMesh",
+    "status": 200,
+    "final_url": "https://github.com/xJARiD/MeshCore-EastMesh",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - xJARiD/MeshCore-EastMesh: EastMesh firmware builds for MeshCore, with MQTT repeaters, WiFi companions, and simple release downloads for supported boards. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/yellowcooln/meshcore-discord-relay",
+    "status": 200,
+    "final_url": "https://github.com/yellowcooln/meshcore-discord-relay",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - yellowcooln/meshcore-discord-relay: MeshCore MQTT to Discord Channel \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/yellowcooln/meshcore-health-check",
+    "status": 200,
+    "final_url": "https://github.com/yellowcooln/meshcore-health-check",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - yellowcooln/meshcore-health-check: Self-hosted MeshCore observer coverage app that generates test codes, watches MQTT observer receipts, and scores real- world message reachability with per-observer path details. \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/yellowcooln/meshcore-mqtt-live-map",
+    "status": 200,
+    "final_url": "https://github.com/yellowcooln/meshcore-mqtt-live-map",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - yellowcooln/meshcore-mqtt-live-map: Live Map of Meshcore MQTT feed \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/zhrkvl/MeshCoreQt",
+    "status": 200,
+    "final_url": "https://github.com/zhrkvl/MeshCoreQt",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - zhrkvl/MeshCoreQt: A desktop meshcore app \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/zjs81/meshcore-open",
+    "status": 200,
+    "final_url": "https://github.com/zjs81/meshcore-open",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - zjs81/meshcore-open: Open-source Flutter client for MeshCore LoRa mesh networking devices \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/zjs81/meshcore-open/releases",
+    "status": 200,
+    "final_url": "https://github.com/zjs81/meshcore-open/releases",
+    "result": "reachable",
+    "error": "",
+    "title": "Releases \u00b7 zjs81/meshcore-open \u00b7 GitHub"
+  },
+  {
+    "url": "https://github.com/zm0ra/meshcore-esp-repeater-extended",
+    "status": 200,
+    "final_url": "https://github.com/zm0ra/meshcore-esp-repeater-extended",
+    "result": "reachable",
+    "error": "",
+    "title": "GitHub - zm0ra/meshcore-esp-repeater-extended: Build toolkit for MeshCore ESP32 repeater firmware with web management, TCP bridge, and MQTT telemetry. \u00b7 GitHub"
+  },
+  {
+    "url": "https://gulfcoastmesh.org",
+    "status": 200,
+    "final_url": "https://www.gulfcoastmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Gulf Coast Mesh \u2014 Resilient communications for the entire Gulf Coast"
+  },
+  {
+    "url": "https://habr.com/ru/articles/1056050/",
+    "status": 200,
+    "final_url": "https://habr.com/ru/articles/1056050/",
+    "result": "reachable",
+    "error": "",
+    "title": "MESHCORE \u2014 \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u0441 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u043c \u043b\u0438\u0446\u043e\u043c. \u0427\u0430\u0441\u0442\u044c 1 \u2014 \u0441\u0443\u043c\u0431\u0443\u0440\u043d\u0430\u044f, \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u2011\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f / \u0425\u0430\u0431\u0440"
+  },
+  {
+    "url": "https://hansemesh.de/",
+    "status": 200,
+    "final_url": "https://hansemesh.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "HanseMesh \u2014 MeshCore Netzwerk Norddeutschland"
+  },
+  {
+    "url": "https://hansemesh.de/netzwerk/karte/",
+    "status": 200,
+    "final_url": "https://hansemesh.de/netzwerk/karte/",
+    "result": "reachable",
+    "error": "",
+    "title": "Live-Karte \u2014 HanseMesh \u2014 MeshCore Netzwerk Norddeutschland"
+  },
+  {
+    "url": "https://hopradar.net/",
+    "status": 200,
+    "final_url": "https://hopradar.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "HopRadar: live MeshCore map & analyzer for your own node"
+  },
+  {
+    "url": "https://idahomesh.org",
+    "status": 200,
+    "final_url": "https://idahomesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Idaho Mesh"
+  },
+  {
+    "url": "https://inlandnwmesh.org/",
+    "status": 200,
+    "final_url": "https://inlandnwmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Home | Inland NW Mesh \u2014 Community LoRa Mesh Network"
+  },
+  {
+    "url": "https://ipnt.uk/",
+    "status": 200,
+    "final_url": "https://ipnt.uk/",
+    "result": "reachable",
+    "error": "",
+    "title": "IPNet"
+  },
+  {
+    "url": "https://isarmesh.de/",
+    "status": 200,
+    "final_url": "https://isarmesh.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "isarmesh.de - LoRa-Mesh-Community im Isar-Gebiet"
+  },
+  {
+    "url": "https://jonathansalim.de/",
+    "status": 200,
+    "final_url": "https://jonathansalim.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "B\u00fcrgerfunkinitiative Essen-Kettwig \u2013 Eine neue Art, verbunden zu sein. Unabh\u00e4ngig. Sicher. Gemeinsam."
+  },
+  {
+    "url": "https://jrattechworks.com/meshcore-repeater-flashing-guide/",
+    "status": 200,
+    "final_url": "https://jrattechworks.com/meshcore-repeater-flashing-guide/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Web Flasher: How to Flash and Set Up a Repeater"
+  },
+  {
+    "url": "https://kiekr.app/",
+    "status": 200,
+    "final_url": "https://kiekr.app/",
+    "result": "reachable",
+    "error": "",
+    "title": "KiekR \u2014 MeshCore Community Toolbox"
+  },
+  {
+    "url": "https://kiekr.app/why-regions",
+    "status": 200,
+    "final_url": "https://kiekr.app/why-regions",
+    "result": "reachable",
+    "error": "",
+    "title": "Why Regions? \u2014 KiekR"
+  },
+  {
+    "url": "https://lilygo.cc/products/t-lora-pager-meshcore",
+    "status": 200,
+    "final_url": "https://lilygo.cc/products/t-lora-pager-meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "T-Lora Pager MeshCore \u2013 LILYGO\u00ae"
+  },
+  {
+    "url": "https://limesh.org/",
+    "status": 200,
+    "final_url": "https://limesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Long Island Mesh | Meshtastic & MeshCore Network for Long Island, NY"
+  },
+  {
+    "url": "https://live.tennmesh.com/",
+    "status": 200,
+    "final_url": "https://live.tennmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "TennMesh Live \u2014 MeshCore Monitor"
+  },
+  {
+    "url": "https://localmesh.co.uk/",
+    "status": 200,
+    "final_url": "https://localmesh.co.uk/",
+    "result": "reachable",
+    "error": "",
+    "title": "LocalMesh \u2013 Emergency Radio Network UK"
+  },
+  {
+    "url": "https://localmesh.co.uk/devices/",
+    "status": 200,
+    "final_url": "https://localmesh.co.uk/devices/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Devices | LoRa Hardware for Emergency Communication"
+  },
+  {
+    "url": "https://localmesh.de/karte/",
+    "status": 200,
+    "final_url": "https://www.localmesh.de/karte/",
+    "result": "reachable",
+    "error": "",
+    "title": "Netzwerkkarte | MeshCore Abdeckung in Deutschland"
+  },
+  {
+    "url": "https://localmesh.nl/en/map/",
+    "status": 200,
+    "final_url": "https://www.localmesh.nl/en/map/",
+    "result": "reachable",
+    "error": "",
+    "title": "Network Map | MeshCore Coverage in the Netherlands"
+  },
+  {
+    "url": "https://loramesh-dresden.de/",
+    "status": 200,
+    "final_url": "https://loramesh-dresden.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Dresden - LoRa-basiertes Mesh-Funknetzwerk in Dresden und Umgebung"
+  },
+  {
+    "url": "https://loramesh.fr/",
+    "status": 200,
+    "final_url": "https://www.loramesh.fr/",
+    "result": "reachable",
+    "error": "",
+    "title": "LoraMesh France - reseau radio local pour situations critiques"
+  },
+  {
+    "url": "https://loramesh.fr/carte/",
+    "status": 200,
+    "final_url": "https://www.loramesh.fr/carte/",
+    "result": "reachable",
+    "error": "",
+    "title": "Carte du reseau MeshCore France"
+  },
+  {
+    "url": "https://lorameshcore.pl/",
+    "status": 200,
+    "final_url": "https://lorameshcore.pl/",
+    "result": "reachable",
+    "error": "",
+    "title": "LoRa MeshCore"
+  },
+  {
+    "url": "https://loraproject.ie/",
+    "status": 200,
+    "final_url": "https://loraproject.ie/",
+    "result": "reachable",
+    "error": "",
+    "title": "LoRa Project - The Island of Ireland's Off-Grid Messaging Platform"
+  },
+  {
+    "url": "https://lvmesh.com/",
+    "status": 200,
+    "final_url": "https://lvmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "LVMesh | Decentralized communications for everyone"
+  },
+  {
+    "url": "https://m3sh.uk/contacts/",
+    "status": 200,
+    "final_url": "https://m3sh.uk/contacts/",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Contacts"
+  },
+  {
+    "url": "https://madmesh.net/",
+    "status": 200,
+    "final_url": "https://madmesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "Madison Mesh"
+  },
+  {
+    "url": "https://map.kiekr.app/",
+    "status": 200,
+    "final_url": "https://map.kiekr.app/",
+    "result": "reachable",
+    "error": "",
+    "title": "KiekR.app"
+  },
+  {
+    "url": "https://map.meshcore.dev/",
+    "status": 200,
+    "final_url": "https://map.meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Node Map"
+  },
+  {
+    "url": "https://map.meshcore.io/",
+    "status": 200,
+    "final_url": "https://map.meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Node Map"
+  },
+  {
+    "url": "https://map.meshomatic.net/",
+    "status": 200,
+    "final_url": "https://map.meshomatic.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Network Planner \u2014 MeshOMatic | Coverage Maps & Signal Analysis"
+  },
+  {
+    "url": "https://mapa.meshcorepolska.org/",
+    "status": 200,
+    "final_url": "https://mapa.meshcorepolska.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mapa w\u0119z\u0142\u00f3w MeshCore Polska - zasi\u0119g sieci w Polsce"
+  },
+  {
+    "url": "https://mapme.sh/",
+    "status": 200,
+    "final_url": "https://mapme.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": "mapme.sh - MeshCore Coverage Map"
+  },
+  {
+    "url": "https://mastodon.social/@meshcore",
+    "status": 200,
+    "final_url": "https://mastodon.social/@meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore (@meshcore@mastodon.social) - Mastodon"
+  },
+  {
+    "url": "https://matrix.to/#/#meshcore-netzwerk-de:matrix.org",
+    "status": 200,
+    "final_url": "https://matrix.to/#/#meshcore-netzwerk-de:matrix.org",
+    "result": "uncertain",
+    "error": "",
+    "title": "You're invited to talk on Matrix"
+  },
+  {
+    "url": "https://mayomesh.net/#/",
+    "status": 200,
+    "final_url": "https://mayomesh.net/#/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mayo Mesh"
+  },
+  {
+    "url": "https://mc.flatuslifir.is/",
+    "status": 200,
+    "final_url": "https://mc.flatuslifir.is/",
+    "result": "reachable",
+    "error": "",
+    "title": "CoreScope"
+  },
+  {
+    "url": "https://mc.flmesh.us/",
+    "status": 200,
+    "final_url": "https://mc.flmesh.us/",
+    "result": "reachable",
+    "error": "",
+    "title": "Florida MeshCore"
+  },
+  {
+    "url": "https://mcimages.weebl.me/",
+    "status": 200,
+    "final_url": "https://mcimages.weebl.me/",
+    "result": "reachable",
+    "error": "",
+    "title": "weebl2000's MeshCore Firmware Builder"
+  },
+  {
+    "url": "https://mcml.info/",
+    "status": 200,
+    "final_url": "https://mcml.info/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore M\u00fcnsterland \u00b7 Freies LoRa-Mesh-Netzwerk f\u00fcr die Region"
+  },
+  {
+    "url": "https://mcmqttdashboard.bostonme.sh/",
+    "status": 200,
+    "final_url": "https://mcmqttdashboard.bostonme.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": "Boston MeshCore MQTT Dashboard"
+  },
+  {
+    "url": "https://mesh-ky.org/",
+    "status": 200,
+    "final_url": "https://mesh-ky.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "mesh-ky.org"
+  },
+  {
+    "url": "https://mesh-net.by/",
+    "status": 200,
+    "final_url": "https://mesh-net.by/",
+    "result": "reachable",
+    "error": "",
+    "title": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - MeshNetBY"
+  },
+  {
+    "url": "https://mesh-sn.de/en/devices/matrix",
+    "status": 200,
+    "final_url": "https://mesh-sn.de/en/devices/matrix",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Firmware Matrix \u2013 Which Firmware for Each Device - mesh-sn.de"
+  },
+  {
+    "url": "https://mesh-utility.org/",
+    "status": 200,
+    "final_url": "https://mesh-utility.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Utility"
+  },
+  {
+    "url": "https://mesh.om3kff.sk/",
+    "status": 200,
+    "final_url": "https://mesh.om3kff.sk/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Sie\u0165 na Slovensku \ud83c\uddf8\ud83c\uddf0 | mesh"
+  },
+  {
+    "url": "https://meshamerica.com/",
+    "status": 200,
+    "final_url": "https://meshamerica.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Welcome to Mesh America! MeshCore and Meshtastic News, Meetups, Tutorials and more... - Mesh America"
+  },
+  {
+    "url": "https://meshamerica.com/device-configurator/",
+    "status": 200,
+    "final_url": "https://meshamerica.com/device-configurator/",
+    "result": "reachable",
+    "error": "",
+    "title": "Device Configurator - Mesh America"
+  },
+  {
+    "url": "https://mesharg.com.ar/",
+    "status": 200,
+    "final_url": "https://mesharg.com.ar/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Argentina \u2013 Comunidad Argentina de usuarios de Meshtastic\u00ae"
+  },
+  {
+    "url": "https://meshchile.cl/",
+    "status": 200,
+    "final_url": "https://meshchile.cl/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshChile \u2014 Red mesh comunitaria de Chile: Meshtastic y MeshCore"
+  },
+  {
+    "url": "https://meshcore-analyzer.eu/",
+    "status": 200,
+    "final_url": "https://meshcore-analyzer.eu/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Analyzer"
+  },
+  {
+    "url": "https://meshcore-de.fyi/",
+    "status": 200,
+    "final_url": "https://meshcore-de.fyi/",
+    "result": "reachable",
+    "error": "",
+    "title": "start [MeshCore Wiki DE]"
+  },
+  {
+    "url": "https://meshcore-iasi.ro/",
+    "status": 200,
+    "final_url": "https://meshcore-iasi.ro/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Iasi"
+  },
+  {
+    "url": "https://meshcore-ita.github.io/",
+    "status": 200,
+    "final_url": "https://meshcore-ita.github.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore ITA \u2014 la rete mesh LoRa italiana"
+  },
+  {
+    "url": "https://meshcore-ua.net/",
+    "status": 200,
+    "final_url": "https://meshcore-ua.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore UA - \u0413\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0430 Mesh \u041c\u0435\u0440\u0435\u0436\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438"
+  },
+  {
+    "url": "https://meshcore.at/",
+    "status": 200,
+    "final_url": "https://meshcore.at/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore \u00d6sterreich \u2013 LoRa-Mesh & Off-Grid-Funk"
+  },
+  {
+    "url": "https://meshcore.ca/",
+    "status": 200,
+    "final_url": "https://meshcore.ca/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Canada - MeshCore Canada"
+  },
+  {
+    "url": "https://meshcore.co.uk/",
+    "status": 200,
+    "final_url": "https://meshcore.co.uk/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore \u2014 Off-Grid Mesh Communication"
+  },
+  {
+    "url": "https://meshcore.coloradomesh.org/",
+    "status": 200,
+    "final_url": "https://wiki.coloradomesh.org/index.php/MeshCore",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore - Colorado Mesh"
+  },
+  {
+    "url": "https://meshcore.cz/",
+    "status": 200,
+    "final_url": "https://meshcore.cz/",
+    "result": "reachable",
+    "error": "",
+    "title": "start [MeshCore]"
+  },
+  {
+    "url": "https://meshcore.dk/",
+    "status": 200,
+    "final_url": "https://meshcore.dk/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore.dk"
+  },
+  {
+    "url": "https://meshcore.envoyage.io/",
+    "status": 200,
+    "final_url": "https://meshcore.envoyage.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Tools"
+  },
+  {
+    "url": "https://meshcore.gg",
+    "status": 200,
+    "final_url": "https://discord.com/invite/fUfWevRXAg",
+    "result": "uncertain",
+    "error": "",
+    "title": "MeshCore.io"
+  },
+  {
+    "url": "https://meshcore.hu/",
+    "status": 403,
+    "final_url": "https://meshcore.hu/",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://meshcore.io/",
+    "status": 200,
+    "final_url": "https://meshcore.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore - Official Site"
+  },
+  {
+    "url": "https://meshcore.kernwifi.com.au/live",
+    "status": 200,
+    "final_url": "https://meshcore.kernwifi.com.au/live",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore - Live View"
+  },
+  {
+    "url": "https://meshcore.kernwifi.com.au/map",
+    "status": 200,
+    "final_url": "https://meshcore.kernwifi.com.au/map",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore - Network Map"
+  },
+  {
+    "url": "https://meshcore.kz/",
+    "status": 200,
+    "final_url": "https://meshcore.kz/",
+    "result": "reachable",
+    "error": "",
+    "title": ""
+  },
+  {
+    "url": "https://meshcore.meshat.se/",
+    "status": 200,
+    "final_url": "https://meshcore.meshat.se/",
+    "result": "reachable",
+    "error": "",
+    "title": "CoreScope"
+  },
+  {
+    "url": "https://meshcore.ninja/",
+    "status": 200,
+    "final_url": "https://meshcore.ninja/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Ninja"
+  },
+  {
+    "url": "https://meshcore.observer",
+    "status": 200,
+    "final_url": "https://meshcore.observer/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Observers"
+  },
+  {
+    "url": "https://meshcore.org.il",
+    "status": 200,
+    "final_url": "https://meshcore.org.il/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore IL \ud83d\udce1 | MeshCore Israel \u2013 Community LoRa Mesh Network"
+  },
+  {
+    "url": "https://meshcore.paris/",
+    "status": 200,
+    "final_url": "https://meshcore.paris/",
+    "result": "reachable",
+    "error": "",
+    "title": ""
+  },
+  {
+    "url": "https://meshcore.podlasie.pl/",
+    "status": 200,
+    "final_url": "https://meshcore.podlasie.pl/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Podlasie \u2013 \u0142\u0105czno\u015b\u0107 tekstowa po radiu"
+  },
+  {
+    "url": "https://meshcore.pt/",
+    "status": 200,
+    "final_url": "https://www.meshcore.pt/en/home",
+    "result": "reachable",
+    "error": "",
+    "title": "Home | MeshCore Portugal"
+  },
+  {
+    "url": "https://meshcore.radio-actief.be/",
+    "status": 200,
+    "final_url": "https://meshcore.radio-actief.be/",
+    "result": "reachable",
+    "error": "",
+    "title": "start - MeshCore Belgi\u00eb"
+  },
+  {
+    "url": "https://meshcore.rs/",
+    "status": 200,
+    "final_url": "https://meshcore.rs/",
+    "result": "reachable",
+    "error": "",
+    "title": "meshcore.rs \u2014 registar nodova MeshCore mre\u017ee"
+  },
+  {
+    "url": "https://meshcore.si/",
+    "status": 200,
+    "final_url": "https://meshcore.si/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Slovenija - Off-line komunikacijska platforma"
+  },
+  {
+    "url": "https://meshcore.spb.ru/wiki/",
+    "status": 200,
+    "final_url": "https://meshcore.spb.ru/wiki/",
+    "result": "reachable",
+    "error": "",
+    "title": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 MeshCore? [MeshCore \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433]"
+  },
+  {
+    "url": "https://meshcore.wales/",
+    "status": 200,
+    "final_url": "https://meshcore.wales/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore.Wales \u2014 Regional Mesh Settings"
+  },
+  {
+    "url": "https://meshcoreeurope.org/",
+    "status": 200,
+    "final_url": "https://meshcoreeurope.org/en/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Europe"
+  },
+  {
+    "url": "https://meshcoreeurope.org/en/devices/",
+    "status": 200,
+    "final_url": "https://meshcoreeurope.org/en/devices/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Devices | MeshCore Europe"
+  },
+  {
+    "url": "https://meshcoreeurope.org/en/get-started/",
+    "status": 200,
+    "final_url": "https://meshcoreeurope.org/en/get-started/",
+    "result": "reachable",
+    "error": "",
+    "title": "Getting Started with MeshCore | MeshCore Europe"
+  },
+  {
+    "url": "https://meshcoreeurope.org/en/map/",
+    "status": 200,
+    "final_url": "https://meshcoreeurope.org/en/map/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Coverage Map | MeshCore Europe"
+  },
+  {
+    "url": "https://meshcoreeurope.org/en/repeater-guide/",
+    "status": 200,
+    "final_url": "https://meshcoreeurope.org/en/repeater-guide/",
+    "result": "reachable",
+    "error": "",
+    "title": "Repeater Deployment Guide | MeshCore Europe"
+  },
+  {
+    "url": "https://meshcorelexington.com/",
+    "status": 200,
+    "final_url": "https://meshcorelexington.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Home - MeshCore Lexington"
+  },
+  {
+    "url": "https://meshcorepolska.org/",
+    "status": 200,
+    "final_url": "https://meshcorepolska.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Polska - sie\u0107 LoRa bez internetu i GSM"
+  },
+  {
+    "url": "https://meshcoretel.io/",
+    "status": 200,
+    "final_url": "https://meshcoretel.io/en",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcoretel.io"
+  },
+  {
+    "url": "https://meshcoretel.ru/",
+    "status": 200,
+    "final_url": "https://meshcoretel.ru/ru",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCoreTel"
+  },
+  {
+    "url": "https://meshcoretx.net/",
+    "status": 200,
+    "final_url": "https://meshcoretx.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore TX"
+  },
+  {
+    "url": "https://meshdresden.eu/",
+    "status": 200,
+    "final_url": "https://meshdresden.eu/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Dresden"
+  },
+  {
+    "url": "https://meshed.kiwi/",
+    "status": 200,
+    "final_url": "https://meshed.kiwi/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore NZ Community Networks - A simple, secure, off-grid, mesh communications app."
+  },
+  {
+    "url": "https://meshgo.pl/",
+    "status": 200,
+    "final_url": "https://meshgo.pl/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshGo - Otwarta aplikacja i og\u00f3lnopolska sie\u0107 MeshCore"
+  },
+  {
+    "url": "https://meshhub.uk/",
+    "status": 200,
+    "final_url": "https://meshhub.uk/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Hub UK"
+  },
+  {
+    "url": "https://meshkit.app/",
+    "status": 200,
+    "final_url": "https://meshkit.app/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshKit \u2014 RF Planning & Field Tools for MeshCore LoRa Networks"
+  },
+  {
+    "url": "https://meshmap.radio-actief.be/",
+    "status": 200,
+    "final_url": "https://meshmap.radio-actief.be/",
+    "result": "reachable",
+    "error": "",
+    "title": "#BEmesh Map"
+  },
+  {
+    "url": "https://meshmapper.net/",
+    "status": 200,
+    "final_url": "https://meshmapper.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshMapper"
+  },
+  {
+    "url": "https://meshmonitor.org/",
+    "status": 200,
+    "final_url": "https://meshmonitor.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshMonitor"
+  },
+  {
+    "url": "https://meshpirkanmaa.org/",
+    "status": 200,
+    "final_url": "https://meshpirkanmaa.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Pirkanmaa"
+  },
+  {
+    "url": "https://meshpot.be",
+    "status": 200,
+    "final_url": "https://meshpot.be/",
+    "result": "reachable",
+    "error": "",
+    "title": "Le guide MeshCore \u2014 Bruxelles & Wallonie"
+  },
+  {
+    "url": "https://meshrank.net/",
+    "status": 200,
+    "final_url": "https://meshrank.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshRank"
+  },
+  {
+    "url": "https://meshrf.net/",
+    "status": 200,
+    "final_url": "https://meshrf.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshRF"
+  },
+  {
+    "url": "https://meshsydney.com/",
+    "status": 200,
+    "final_url": "https://meshsydney.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshSydney - MeshCore Network for Sydney, NSW Australia"
+  },
+  {
+    "url": "https://meshterm.net/",
+    "status": 200,
+    "final_url": "https://meshterm.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshTerm \u2014 a full-featured TUI MeshCore client for your terminal"
+  },
+  {
+    "url": "https://meshtexas.org/",
+    "status": 200,
+    "final_url": "https://meshtexas.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshTexas \u2014 Texas MeshCore Mesh Network"
+  },
+  {
+    "url": "https://meshwiki.nl/",
+    "status": 200,
+    "final_url": "https://meshwiki.nl/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshWiki"
+  },
+  {
+    "url": "https://meshwiki.no/",
+    "status": 200,
+    "final_url": "https://meshwiki.no/",
+    "result": "reachable",
+    "error": "",
+    "title": "start [MeshWiki.no]"
+  },
+  {
+    "url": "https://missourimesh.org/",
+    "status": 200,
+    "final_url": "https://missourimesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Missouri Mesh"
+  },
+  {
+    "url": "https://msh3.de/",
+    "status": 200,
+    "final_url": "https://msh3.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Deutschlang Mitte (Interessengemeinschaft)"
+  },
+  {
+    "url": "https://mspmesh.org/",
+    "status": 200,
+    "final_url": "https://mspmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Welcome to MSPMesh.org - MSPMesh - Twin Cities, Greater MN, Western WI Mesh Networking Group"
+  },
+  {
+    "url": "https://mwmesh.com/",
+    "status": 200,
+    "final_url": "https://mwmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "MountainWest Mesh \u2014 Off-grid messaging across Utah, Idaho & Wyoming"
+  },
+  {
+    "url": "https://nelos.app/",
+    "status": 200,
+    "final_url": "https://nelos.app/",
+    "result": "reachable",
+    "error": "",
+    "title": "Nelos | Group communication & tracking without a SIM"
+  },
+  {
+    "url": "https://nhmesh.com/",
+    "status": 200,
+    "final_url": "https://nhmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "NHMesh - New Hampshire LoRa Mesh Community"
+  },
+  {
+    "url": "https://nodakmesh.org/",
+    "status": 200,
+    "final_url": "https://nodakmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "NodakMesh - North Dakota's Mesh Network"
+  },
+  {
+    "url": "https://nodakmesh.org/blog/meshcore-solar-repeater-build",
+    "status": 200,
+    "final_url": "https://nodakmesh.org/blog/meshcore-solar-repeater-build",
+    "result": "reachable",
+    "error": "",
+    "title": "Solar MeshCore Repeater Build Guide: Parts to Deployment"
+  },
+  {
+    "url": "https://nodakmesh.org/meshcore/enclosures",
+    "status": 200,
+    "final_url": "https://nodakmesh.org/meshcore/enclosures",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Enclosures & Cases - NodakMesh"
+  },
+  {
+    "url": "https://nodakmesh.org/meshcore/wiki",
+    "status": 200,
+    "final_url": "https://nodakmesh.org/meshcore/wiki",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Wiki and Docs: FAQ, CLI Commands and Protocols"
+  },
+  {
+    "url": "https://nomadmesh.org/",
+    "status": 200,
+    "final_url": "https://nomadmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "NomadMesh \u00b7 Alpujarras Community Meshcore Network"
+  },
+  {
+    "url": "https://northmesh.co.uk/",
+    "status": 200,
+    "final_url": "https://northmesh.co.uk/",
+    "result": "reachable",
+    "error": "",
+    "title": "NorthMesh - UK MeshCore LoRa Network Map"
+  },
+  {
+    "url": "https://nswmesh.au/",
+    "status": 200,
+    "final_url": "https://nswmesh.au/",
+    "result": "reachable",
+    "error": "",
+    "title": "NSW Mesh Wiki"
+  },
+  {
+    "url": "https://ntxmesh.com/",
+    "status": 200,
+    "final_url": "https://ntxmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "NTX Mesh | DFW / North Texas Mesh"
+  },
+  {
+    "url": "https://nvme.sh/",
+    "status": 200,
+    "final_url": "https://nvme.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": "NV Mesh \u2014 Nevada Community Mesh Network"
+  },
+  {
+    "url": "https://nyme.sh/",
+    "status": 200,
+    "final_url": "https://nyme.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": "Welcome to the party! / MeshNY"
+  },
+  {
+    "url": "https://old.reddit.com/r/meshcore/",
+    "status": 200,
+    "final_url": "https://old.reddit.com/login/?reason=lor2&dest=https%3A%2F%2Fold.reddit.com%2Fr%2Fmeshcore%2F",
+    "result": "uncertain",
+    "error": "",
+    "title": "Welcome to Reddit"
+  },
+  {
+    "url": "https://ottawamesh.ca/",
+    "status": 200,
+    "final_url": "https://ottawamesh.ca/",
+    "result": "reachable",
+    "error": "",
+    "title": "Greater Ottawa Mesh Enthusiasts"
+  },
+  {
+    "url": "https://perth.meshcore.au/",
+    "status": 200,
+    "final_url": "https://perth.meshcore.au/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Western Australia"
+  },
+  {
+    "url": "https://phillymesh.net/",
+    "status": 200,
+    "final_url": "https://phillymesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "Philly Mesh"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.meshcore.meshgo",
+    "status": 200,
+    "final_url": "https://play.google.com/store/apps/details?id=com.meshcore.meshgo",
+    "result": "reachable",
+    "error": "",
+    "title": "meshGO! Off-Grid MeshCore - Apps on Google Play"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.meshcore.team",
+    "status": 200,
+    "final_url": "https://play.google.com/store/apps/details?id=com.meshcore.team",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore-TEAM - Apps on Google Play"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=net.meshmapper.app",
+    "status": 200,
+    "final_url": "https://play.google.com/store/apps/details?id=net.meshmapper.app",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshMapper - Apps on Google Play"
+  },
+  {
+    "url": "https://pokryti.meshcore.cz/",
+    "status": 200,
+    "final_url": "https://pokryti.meshcore.cz/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Coverage Map"
+  },
+  {
+    "url": "https://pugetmesh.org/",
+    "status": 200,
+    "final_url": "https://pugetmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Puget Mesh"
+  },
+  {
+    "url": "https://pvmesh.org/",
+    "status": 200,
+    "final_url": "https://pvmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Pioneer Valley Mesh Network"
+  },
+  {
+    "url": "https://rdumesh.org/",
+    "status": 200,
+    "final_url": "https://rdumesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "RDUMesh"
+  },
+  {
+    "url": "https://ridgeline.ve7kod.ca/",
+    "status": 200,
+    "final_url": "https://ridgeline.ve7kod.ca/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Observatory \u00b7 Ridgeline"
+  },
+  {
+    "url": "https://saarmesh.de/",
+    "status": 200,
+    "final_url": "https://saarmesh.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "SaarMesh \u2013 MeshCore im Saarland, regionale Struktur, Live-Karte und technische Infos."
+  },
+  {
+    "url": "https://salishmesh.net/",
+    "status": 200,
+    "final_url": "https://salishmesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "Salish Mesh"
+  },
+  {
+    "url": "https://scotmesh.net/",
+    "status": 200,
+    "final_url": "https://scotmesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "ScotMesh \u2014 Community Mesh Networks in Scotland"
+  },
+  {
+    "url": "https://sierrasur.github.io/",
+    "status": 200,
+    "final_url": "https://sierrasur.github.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "Red Sierra Sur \u2014 Red Mesh LoRa Descentralizada en Ja\u00e9n"
+  },
+  {
+    "url": "https://socalmesh.org/",
+    "status": 200,
+    "final_url": "https://socalmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "SoCal Mesh"
+  },
+  {
+    "url": "https://squatchmesh.com/",
+    "status": 200,
+    "final_url": "https://squatchmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Squatch Mesh - off-grid messaging for the LilyGo T-Lora Pager"
+  },
+  {
+    "url": "https://static.pixelentry.de/meshcore/geo-prune/",
+    "status": 200,
+    "final_url": "https://static.pixelentry.de/meshcore/geo-prune/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Geo Prune"
+  },
+  {
+    "url": "https://supplydrop.meshamerica.com/",
+    "status": 200,
+    "final_url": "https://supplydrop.meshamerica.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Supply Drop BBS"
+  },
+  {
+    "url": "https://t.me/MeshCore_KRD",
+    "status": 200,
+    "final_url": "https://t.me/MeshCore_KRD",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @MeshCore_KRD"
+  },
+  {
+    "url": "https://t.me/MeshCore_offline_network",
+    "status": 200,
+    "final_url": "https://t.me/MeshCore_offline_network",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @MeshCore_offline_network"
+  },
+  {
+    "url": "https://t.me/Meshcore_Rostov_na_Donu",
+    "status": 200,
+    "final_url": "https://t.me/Meshcore_Rostov_na_Donu",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @Meshcore_Rostov_na_Donu"
+  },
+  {
+    "url": "https://t.me/meshcore_ita",
+    "status": 200,
+    "final_url": "https://t.me/meshcore_ita",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @meshcore_ita"
+  },
+  {
+    "url": "https://t.me/meshcore_rulang",
+    "status": 200,
+    "final_url": "https://t.me/meshcore_rulang",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @meshcore_rulang"
+  },
+  {
+    "url": "https://t.me/meshcoreat",
+    "status": 200,
+    "final_url": "https://t.me/meshcoreat",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: Contact @meshcoreat"
+  },
+  {
+    "url": "https://t.me/meshcorebrasil",
+    "status": 200,
+    "final_url": "https://t.me/meshcorebrasil",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @meshcorebrasil"
+  },
+  {
+    "url": "https://t.me/meshcorede",
+    "status": 200,
+    "final_url": "https://t.me/meshcorede",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @meshcorede"
+  },
+  {
+    "url": "https://t.me/meshcoremoscow",
+    "status": 200,
+    "final_url": "https://t.me/meshcoremoscow",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @meshcoremoscow"
+  },
+  {
+    "url": "https://t.me/meshtastic_stv",
+    "status": 200,
+    "final_url": "https://t.me/meshtastic_stv",
+    "result": "uncertain",
+    "error": "",
+    "title": "Telegram: View @meshtastic_stv"
+  },
+  {
+    "url": "https://tdeck.ubnzeek.com/",
+    "status": 403,
+    "final_url": "https://www.patreon.com/UBNZeek/posts/meshultra-now-167932266",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://tennmesh.com/",
+    "status": 200,
+    "final_url": "https://tennmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Home | TennMesh"
+  },
+  {
+    "url": "https://umap.openstreetmap.de/en/map/meshcore-defyi_130650",
+    "status": 200,
+    "final_url": "https://umap.openstreetmap.de/en/map/meshcore-defyi-region-map_130650",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore-de.fyi Region Map - uMap - Online map creator"
+  },
+  {
+    "url": "https://wiki.carinthiamesh.com/",
+    "status": 200,
+    "final_url": "https://wiki.carinthiamesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "Startseite | CarinthiaMesh Wiki"
+  },
+  {
+    "url": "https://wiki.estmesh.ee/en/home",
+    "status": 200,
+    "final_url": "https://wiki.estmesh.ee/en/home",
+    "result": "reachable",
+    "error": "",
+    "title": "ESTMesh wiki (retry succeeded)"
+  },
+  {
+    "url": "https://wiki.lilygo.cc/zh/open-source/meshcore/",
+    "status": 200,
+    "final_url": "https://wiki.lilygo.cc/zh/open-source/meshcore/",
+    "result": "reachable",
+    "error": "",
+    "title": "LILYGO Meshcore \u4f7f\u7528\u6307\u5357 | Documentation"
+  },
+  {
+    "url": "https://wiki.mbug.com.au/en/Meshcore/Settings",
+    "status": 200,
+    "final_url": "https://wiki.mbug.com.au/en/Meshcore/Settings",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Settings for Brisbane and SEQ | Mesh Brisbane User Group Wiki"
+  },
+  {
+    "url": "https://wiki.mesh-idf.fr",
+    "status": 200,
+    "final_url": "https://wiki.mesh-idf.fr/fr/home",
+    "result": "reachable",
+    "error": "",
+    "title": "HOME | Les Mesh en \u00cele-de-France"
+  },
+  {
+    "url": "https://wiki.meshamerica.com/books/meshcore/page/start-here-meshcore-guide",
+    "status": 200,
+    "final_url": "https://wiki.meshamerica.com/books/meshcore/page/start-here-meshcore-guide",
+    "result": "reachable",
+    "error": "",
+    "title": "\ud83d\udcd6 Start Here \u2014 MeshCor... | Mesh America: Library"
+  },
+  {
+    "url": "https://wiki.meshamerica.com/books/meshcore/page/supported-hardware-for-meshcore",
+    "status": 200,
+    "final_url": "https://wiki.meshamerica.com/books/meshcore/page/supported-hardware-for-meshcore",
+    "result": "reachable",
+    "error": "",
+    "title": "Supported Hardware for... | Mesh America: Library"
+  },
+  {
+    "url": "https://wiki.meshcoreaus.org/",
+    "status": 200,
+    "final_url": "https://wiki.meshcoreaus.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Wiki (Unofficial)"
+  },
+  {
+    "url": "https://wiki.scotmesh.uk/en/MeshCore/getting-started",
+    "status": 200,
+    "final_url": "https://wiki.scotmesh.uk/en/MeshCore/getting-started",
+    "result": "reachable",
+    "error": "",
+    "title": "Getting Started with ScotMesh | Scot Mesh Wiki"
+  },
+  {
+    "url": "https://wiki.seeedstudio.com/cn/get_started_with_esp32s3_meshcore/",
+    "status": 200,
+    "final_url": "https://wiki.seeedstudio.com/cn/get_started_with_esp32s3_meshcore/",
+    "result": "reachable",
+    "error": "",
+    "title": "ESP32 MeshCore \u5165\u95e8 | Seeed Studio Wiki"
+  },
+  {
+    "url": "https://wissen-technik-meshcore-meshtastic.podigee.io/",
+    "status": 200,
+    "final_url": "https://wissen-technik-meshcore-meshtastic.podigee.io/",
+    "result": "reachable",
+    "error": "",
+    "title": "WISSEN TECHNIK - MeshCore & Meshtastic - Podcast"
+  },
+  {
+    "url": "https://wnymeshcore.org/",
+    "status": 200,
+    "final_url": "https://wnymeshcore.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "WNY MeshCore Community Platform"
+  },
+  {
+    "url": "https://www.austinmesh.org/",
+    "status": 200,
+    "final_url": "https://www.austinmesh.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Austin Mesh"
+  },
+  {
+    "url": "https://www.austinmesh.org/join/meshcore-setup/",
+    "status": 200,
+    "final_url": "https://www.austinmesh.org/join/meshcore-setup/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Setup | Austin Mesh"
+  },
+  {
+    "url": "https://www.contributor-covenant.org",
+    "status": 200,
+    "final_url": "https://www.contributor-covenant.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Contributor Covenant | A Code of Conduct for Digital Communities"
+  },
+  {
+    "url": "https://www.contributor-covenant.org/version/2/1/code_of_conduct.html",
+    "status": 200,
+    "final_url": "https://www.contributor-covenant.org/version/2/1/code_of_conduct/",
+    "result": "reachable",
+    "error": "",
+    "title": "Contributor Covenant |"
+  },
+  {
+    "url": "https://www.elecrow.com/thinknode-m9-meshcore-communication-terminal-with-full-keyboard-2-4inch-lcd-esp32-s3-lr1110-gps-2300mah.html",
+    "status": 200,
+    "final_url": "https://www.elecrow.com/thinknode-m9-meshcore-communication-terminal-with-full-keyboard-2-4inch-lcd-esp32-s3-lr1110-gps-2300mah.html",
+    "result": "reachable",
+    "error": "",
+    "title": "ThinkNode M9 Meshcore Standalone Communicator | Full Keyboard |ESP32-S3 + LR1110 | GPS | 2300mAh"
+  },
+  {
+    "url": "https://www.facebook.com/MeshCoreOfficial",
+    "status": 200,
+    "final_url": "https://www.facebook.com/MeshCoreOfficial",
+    "result": "uncertain",
+    "error": "",
+    "title": "MeshCore"
+  },
+  {
+    "url": "https://www.facebook.com/groups/meshcore",
+    "status": 200,
+    "final_url": "https://www.facebook.com/groups/meshcore",
+    "result": "uncertain",
+    "error": "",
+    "title": "MeshCore Official"
+  },
+  {
+    "url": "https://www.kevsrobots.com/learn/meshcore/",
+    "status": 200,
+    "final_url": "https://www.kevsrobots.com/learn/meshcore/",
+    "result": "reachable",
+    "error": "",
+    "title": "Introduction"
+  },
+  {
+    "url": "https://www.localmesh.de/",
+    "status": 200,
+    "final_url": "https://www.localmesh.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "LocalMesh \u2013 Ein Notfunknetzwerk f\u00fcr Deutschland"
+  },
+  {
+    "url": "https://www.localmesh.nl/",
+    "status": 200,
+    "final_url": "https://www.localmesh.nl/",
+    "result": "reachable",
+    "error": "",
+    "title": "LocalMesh \u2013 Het noodradio netwerk van Nederland"
+  },
+  {
+    "url": "https://www.localmesh.nl/en/meshcore-setup/",
+    "status": 200,
+    "final_url": "https://www.localmesh.nl/en/meshcore-setup/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Setup for Beginners in the Netherlands | LocalMesh"
+  },
+  {
+    "url": "https://www.lorabrescia.it/",
+    "status": 200,
+    "final_url": "https://www.lorabrescia.it/",
+    "result": "reachable",
+    "error": "",
+    "title": "LoRa Brescia \u2013 Gruppo radio di Brescia"
+  },
+  {
+    "url": "https://www.loramesh.be/",
+    "status": 200,
+    "final_url": "https://www.loramesh.be/",
+    "result": "reachable",
+    "error": "",
+    "title": "LoraMesh Belgi\u00eb | Noodcommunicatie zonder internet"
+  },
+  {
+    "url": "https://www.meshcore-austria.at/doku.php?id=start",
+    "status": 200,
+    "final_url": "https://www.meshcore-austria.at/doku.php?id=start",
+    "result": "reachable",
+    "error": "",
+    "title": "start [Willkommen auf MeshCore-Austria.at]"
+  },
+  {
+    "url": "https://www.meshcore.bg/",
+    "status": 200,
+    "final_url": "https://www.meshcore.bg/",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Bulgaria - Mesh Network, LoRa Communication & Meshcore Community"
+  },
+  {
+    "url": "https://www.meshcore.ch/",
+    "status": 200,
+    "final_url": "https://www.meshcore.ch/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Switzerland Community"
+  },
+  {
+    "url": "https://www.meshcore.fr/",
+    "status": 200,
+    "final_url": "https://www.meshcore.fr/",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore France \u2013 R\u00e9seau LoRa maill\u00e9 hors\u2011ligne"
+  },
+  {
+    "url": "https://www.meshcore.lu/",
+    "status": 200,
+    "final_url": "https://www.meshcore.lu/",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Luxembourg: LoRa for Emergency Communications"
+  },
+  {
+    "url": "https://www.meshcore.nl/",
+    "status": 200,
+    "final_url": "https://www.meshcore.nl/",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Nederland"
+  },
+  {
+    "url": "https://www.meshcoreitalia.it",
+    "status": 200,
+    "final_url": "https://www.meshcoreitalia.it/",
+    "result": "reachable",
+    "error": "",
+    "title": "Home - MeshCore Italia"
+  },
+  {
+    "url": "https://www.meshrheinland.de/",
+    "status": 200,
+    "final_url": "https://www.meshrheinland.de/",
+    "result": "reachable",
+    "error": "",
+    "title": "LoRa-Mesh-Community im Rheinland | Mesh Rheinland"
+  },
+  {
+    "url": "https://www.meshsorocaba.org/",
+    "status": 200,
+    "final_url": "https://www.meshsorocaba.org/",
+    "result": "reachable",
+    "error": "",
+    "title": "Mesh Sorocaba"
+  },
+  {
+    "url": "https://www.meshsorocaba.org/configuracao/",
+    "status": 200,
+    "final_url": "https://www.meshsorocaba.org/configuracao/",
+    "result": "reachable",
+    "error": "",
+    "title": "Guia de configura\u00e7\u00e3o da rede MeshCore no Brasil - Mesh Sorocaba"
+  },
+  {
+    "url": "https://www.montrealmesh.ca/en/",
+    "status": 200,
+    "final_url": "https://www.montrealmesh.ca/en/",
+    "result": "reachable",
+    "error": "",
+    "title": "Home - MIME | Montr\u00e9al Island Mesh Enthusiasts"
+  },
+  {
+    "url": "https://www.nebraskamesh.net/",
+    "status": 200,
+    "final_url": "https://www.nebraskamesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "Nebraska Mesh"
+  },
+  {
+    "url": "https://www.printables.com/model/1490873-the-corebell-a-meshcoremeshtastic-solar-node",
+    "status": 403,
+    "final_url": "https://www.printables.com/model/1490873-the-corebell-a-meshcoremeshtastic-solar-node",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.printables.com/model/1767610-meshcore-mast-enclosure-heltec-v3",
+    "status": 403,
+    "final_url": "https://www.printables.com/model/1767610-meshcore-mast-enclosure-heltec-v3",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.reddit.com/r/MeshCoreIndia/",
+    "status": 200,
+    "final_url": "https://www.reddit.com/r/MeshCoreIndia/",
+    "result": "uncertain",
+    "error": "",
+    "title": "Reddit"
+  },
+  {
+    "url": "https://www.reddit.com/r/meshcore/",
+    "status": 200,
+    "final_url": "https://www.reddit.com/r/meshcore/",
+    "result": "uncertain",
+    "error": "",
+    "title": "Reddit"
+  },
+  {
+    "url": "https://www.regionmesh.com/",
+    "status": 200,
+    "final_url": "https://www.regionmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "RegionMesh \u2013 MeshCore Community Network United States"
+  },
+  {
+    "url": "https://www.regionmesh.com/es/",
+    "status": 200,
+    "final_url": "https://www.regionmesh.com/es/",
+    "result": "reachable",
+    "error": "",
+    "title": "RegionMesh \u2013 Red comunitaria MeshCore en Estados Unidos"
+  },
+  {
+    "url": "https://www.seeedstudio.com/MeshCore-Starter-Kit-Ready-to-Use-Off-Grid-Instant-Reliable-Communication.html",
+    "status": 200,
+    "final_url": "https://www.seeedstudio.com/MeshCore-Starter-Kit-Ready-to-Use-Off-Grid-Instant-Reliable-Communication.html",
+    "result": "reachable",
+    "error": "",
+    "title": "MeshCore Starter Kit, Off-Grid Network without Cell Service, Plug-and-Play"
+  },
+  {
+    "url": "https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html",
+    "status": 200,
+    "final_url": "https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Device/ Rugged Meshcore Device with Battery, OLED & GPS from Seeed Studio."
+  },
+  {
+    "url": "https://www.seeedstudio.com/Wio-Tracker-L1-Pro-for-Meshcore-p-6717.html",
+    "status": 200,
+    "final_url": "https://www.seeedstudio.com/Wio-Tracker-L1-Pro-for-Meshcore-p-6717.html",
+    "result": "reachable",
+    "error": "",
+    "title": "Meshcore Device/ Rugged Meshcore Device with Battery, OLED & GPS from Seeed Studio."
+  },
+  {
+    "url": "https://www.spokanemesh.net/",
+    "status": 200,
+    "final_url": "https://www.spokanemesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "Spokane Mesh Network - Every Node Counts"
+  },
+  {
+    "url": "https://www.stmesh.net/",
+    "status": 200,
+    "final_url": "https://www.stmesh.net/",
+    "result": "reachable",
+    "error": "",
+    "title": "Southern Tier NY Mesh Network"
+  },
+  {
+    "url": "https://www.thingiverse.com/thing:7383479",
+    "status": 403,
+    "final_url": "https://www.thingiverse.com/thing:7383479",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.thingiverse.com/thing:7390213",
+    "status": 403,
+    "final_url": "https://www.thingiverse.com/thing:7390213",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.thingiverse.com/thing:7394936",
+    "status": 403,
+    "final_url": "https://www.thingiverse.com/thing:7394936",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.thingiverse.com/thing:7395161",
+    "status": 403,
+    "final_url": "https://www.thingiverse.com/thing:7395161",
+    "result": "uncertain",
+    "error": "",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.upst8me.sh/",
+    "status": 200,
+    "final_url": "https://www.upst8me.sh/",
+    "result": "reachable",
+    "error": "",
+    "title": ""
+  },
+  {
+    "url": "https://www.wcmesh.com/",
+    "status": 200,
+    "final_url": "https://www.wcmesh.com/",
+    "result": "reachable",
+    "error": "",
+    "title": "West Coast Mesh - Decentralized Mesh Networking"
+  },
+  {
+    "url": "https://www.youtube.com/@andykirby",
+    "status": 200,
+    "final_url": "https://www.youtube.com/@andykirby",
+    "result": "uncertain",
+    "error": "",
+    "title": "andy kirby - YouTube"
+  },
+  {
+    "url": "https://www.youtube.com/@meshcore-official",
+    "status": 200,
+    "final_url": "https://www.youtube.com/@meshcore-official",
+    "result": "uncertain",
+    "error": "",
+    "title": "MeshCore - YouTube"
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9",
+    "status": 200,
+    "final_url": "https://www.youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9",
+    "result": "uncertain",
+    "error": "",
+    "title": "MeshCore QuickStart - YouTube"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=t1qne8uJBAc",
+    "status": 200,
+    "final_url": "https://www.youtube.com/watch?v=t1qne8uJBAc",
+    "result": "uncertain",
+    "error": "",
+    "title": "How to get started with MeshCore off grid text messaging - YouTube"
+  },
+  {
+    "url": "https://x.com/mesh_core",
+    "status": 200,
+    "final_url": "https://x.com/mesh_core",
+    "result": "uncertain",
+    "error": "",
+    "title": "MeshCore (@mesh_core) / X"
+  }
+]
