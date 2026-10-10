@@ -1,0 +1,74 @@
+[
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": ".github/dependabot.yml",
+    "bytes": 164,
+    "sha256": "1210bf07c5fc88e39479413faf15966fb1511936f33e45a82242b05eeb67db3d",
+    "action": "Reviewed; not carried over (source automation dependency policy)"
+  },
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": ".github/workflows/links.yml",
+    "bytes": 482,
+    "sha256": "47e9bcc00b5705bfb13abb8977e7fb8772d45deb280827439bfbd01b6a1c87a4",
+    "action": "Reviewed; replaced by stricter link-check configuration"
+  },
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": "LICENSE",
+    "bytes": 7047,
+    "sha256": "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03",
+    "action": "Preserved unchanged as root LICENSE"
+  },
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": "README.md",
+    "bytes": 59867,
+    "sha256": "92b4ba0fbb61e4dff22e879ef61a0b502899f7997996069e8895f5a1dec6580b",
+    "action": "Merged with per-entry decisions"
+  },
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": "code-of-conduct.md",
+    "bytes": 2309,
+    "sha256": "15b413002201aafc498674eebd29dd6490c5864aa7731a09705643c6695a36f1",
+    "action": "Preserved with attribution"
+  },
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": "contributing.md",
+    "bytes": 1847,
+    "sha256": "75e6171a415f0fc41099b74314a846f3ccb6aa5c08305a5afb77e6e79bdbf7de",
+    "action": "Adapted for canonical list"
+  },
+  {
+    "source": "awesome-meshcore",
+    "commit": "526720be491725d4fb69337c909264e24ef95cb1",
+    "path": "lychee.toml",
+    "bytes": 535,
+    "sha256": "7d1978513a6ae3c67d7c5a34e8410cfff2d2d4e90e10173a737900f2ae251ba9",
+    "action": "Reviewed; replaced by stricter link-check configuration"
+  },
+  {
+    "source": "awesome-meshcore2",
+    "commit": "d7605cff003a2bb9e1d5c34241baa73f6ac6311d",
+    "path": "LICENSE",
+    "bytes": 7047,
+    "sha256": "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03",
+    "action": "Preserved unchanged as root LICENSE"
+  },
+  {
+    "source": "awesome-meshcore2",
+    "commit": "d7605cff003a2bb9e1d5c34241baa73f6ac6311d",
+    "path": "README.md",
+    "bytes": 1826,
+    "sha256": "29a9b10ba3679a3f2db21118c7407fcdfa986a659187a5212678a6fb1f01449d",
+    "action": "Merged with per-entry decisions"
+  }
+]

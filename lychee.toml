@@ -1,0 +1,18 @@
+max_concurrency = 4
+max_retries = 2
+retry_wait_time = 5
+timeout = 30
+no_progress = true
+user_agent = "Mozilla/5.0 (compatible; MeshCore-list link checker)"
+# Challenges, rate limits and server errors are findings, not successful checks.
+accept = ["200..=206"]
+# Membership/login-gated resources require a manual check; audit/LINK-REPORT.md records them.
+exclude = [
+  "^https://www\\.facebook\\.com",
+  "^https://(discord\\.gg|discord\\.com|meshcore\\.gg)",
+  "^https://t\\.me",
+  "^https://(www\\.|old\\.)?reddit\\.com",
+  "^https://(www\\.)?youtube\\.com",
+  "^https://x\\.com",
+  "^https://matrix\\.to",
+]
