@@ -10,8 +10,17 @@ sensor networks.
 
 This list combines two CC0 resource collections. See [attribution](ATTRIBUTION.md), [merge decisions](audit/MERGE-REPORT.md), and [link verification](audit/LINK-REPORT.md). Checks are a snapshot from October 9, 2026 (America/New_York); reachable pages do not establish software quality, current maintenance or radio compatibility. Items explicitly retired or paused are labeled. Linked projects retain their own licenses.
 
+## Reader guides
+
+- [Start here](docs/START-HERE.md) - From a new device to a first message.
+- [App comparison](docs/APP-COMPARISON.md) - Platforms, transports, offline maps and installation limits.
+- [Troubleshooting](docs/TROUBLESHOOTING.md) - Pairing, discovery, messaging, firmware and repeater checks.
+
+Last manual review: **October 9, 2026**. Weekly automated link-check reports appear under GitHub Actions; automation does not certify software features or update this manual review date.
+
 ## Contents
 
+- [Reader guides](#reader-guides)
 - [Official Resources](#official-resources)
   - [Social Media](#social-media)
 - [Client](#client)
@@ -95,6 +104,9 @@ Everything from the official MeshCore project:
 - [MeshCore.io](https://meshcore.io/) - The official homepage.
 - [MeshCore.co.uk](https://meshcore.co.uk/) - Additional MeshCore homepage with apps, devices and setup resources.
 - [Documentation](https://docs.meshcore.io/) - Official docs.
+- [CLI commands](https://docs.meshcore.io/cli_commands/) - Official repeater, room-server and sensor command reference.
+- [Radio presets](https://docs.meshcore.io/radio_presets/) - Official explanation of how companion-app presets are supplied.
+- [Companion quick-start PDF](https://files.liamcottle.net/MeshCore/Documentation/MeshCore_Quick_Start_Guide.pdf) - Illustrated companion setup guide; some app screens may be older.
 - [Blog](https://blog.meshcore.io/) - Official announcements and releases.
 - [MeshCore Web Flasher](https://flasher.meshcore.io/) - Official browser-based firmware flasher for supported devices.
 - [MeshCore Map](https://map.meshcore.io/) - Official network map.

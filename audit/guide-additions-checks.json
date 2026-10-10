@@ -1,0 +1,60 @@
+{
+  "checked_on": "2026-10-09",
+  "timezone": "America/New_York",
+  "sources": [
+    {
+      "url": "https://github.com/zjs81/meshcore-open",
+      "status": 200,
+      "final_url": "https://github.com/zjs81/meshcore-open",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/tmacinc/MeshCore-TEAM",
+      "status": 200,
+      "final_url": "https://github.com/tmacinc/MeshCore-TEAM",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/OffbandMesh/meshcore-client",
+      "status": 200,
+      "final_url": "https://github.com/OffbandMesh/meshcore-client",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Avi0n/MeshCoreOne",
+      "status": 200,
+      "final_url": "https://github.com/Avi0n/MeshCoreOne",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/mbedworth/PommeCore",
+      "status": 200,
+      "final_url": "https://github.com/mbedworth/PommeCore",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Colorado-Mesh/mesh-client",
+      "status": 200,
+      "final_url": "https://github.com/Colorado-Mesh/mesh-client",
+      "error": ""
+    },
+    {
+      "url": "https://docs.meshcore.io/cli_commands/",
+      "status": 200,
+      "final_url": "https://docs.meshcore.io/cli_commands/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.meshcore.io/radio_presets/",
+      "status": 200,
+      "final_url": "https://docs.meshcore.io/radio_presets/",
+      "error": ""
+    },
+    {
+      "url": "https://files.liamcottle.net/MeshCore/Documentation/MeshCore_Quick_Start_Guide.pdf",
+      "status": 200,
+      "final_url": "https://files.liamcottle.net/MeshCore/Documentation/MeshCore_Quick_Start_Guide.pdf",
+      "error": ""
+    }
+  ]
+}

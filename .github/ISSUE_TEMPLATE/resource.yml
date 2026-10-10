@@ -1,0 +1,25 @@
+name: Add or correct a resource
+description: Suggest a MeshCore resource, category correction or broken-link report.
+title: "Resource: "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+      description: Link to the project's official page or repository.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed addition or correction
+      description: Explain the MeshCore use, suggested category and whether the entry already exists.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Verification evidence
+      description: Include date checked, redirects/status, maintenance/source availability, and any login wall. A 403 or timeout alone does not prove a dead link.
+    validations:
+      required: true
